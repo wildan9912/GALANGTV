@@ -4,6 +4,15 @@ https://media.publit.io/file/Tak-berjudul-2-480p-1.mp4
 #EXTINF: -1 tvg-logo="https://i.ibb.co/fph6217/20231117-110609.jpg" group-title="LIVE EVENT", 01.BACA DULU
 https://media.publit.io/file/Tak-berjudul-8-720p.mp4
 
+#KODIPROP:inputstream.adaptive.license_key=clearkey
+#EXTINF: -1 tvg-logo="https://i.ibb.co/R3kDCyY/malut-vs-persikab.jpg" group-title="LIVE EVENT", 02.MALUT UNITED VS PERSIKAB BANDUNG
+#EXTVLCOPT:http-referrer=
+https://media.publit.io/file/comingsoon.mp4
+
+#KODIPROP:inputstream.adaptive.license_key=clearkey
+#EXTINF: -1 tvg-logo="https://i.ibb.co/M5ydSFf/persebaya-vs-persis.jpg" group-title="LIVE EVENT", 03.PERSEBAYA VS PERSIS SOLO
+#EXTVLCOPT:http-referrer=
+https://media.publit.io/file/comingsoon.mp4
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co/cC2sSc0/20231113-200301.jpg" group-title="PENGAJIAN", GUS IDHAM
 https://live-yt.streamingastv.workers.dev/live/_yldH7ECXCI/master.m3u8?|referer=https://t.me/astvstreaming
