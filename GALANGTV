@@ -1,23 +1,9 @@
 #EXTINF: -1 tvg-logo="https://i.ibb.co/SQ2VFSX/20230811-040121.png" group-title="PERINGATAN", GALANG RAMADHAN
 https://media.publit.io/file/Tak-berjudul-2-480p-1.mp4
 
-#EXTINF: -1 tvg-logo="https://i.ibb.co/fph6217/20231117-110609.jpg" group-title="LIVE EVENT", 01.BACA DULU
-https://media.publit.io/file/Tak-berjudul-8-720p.mp4
-
-#KODIPROP:inputstream.adaptive.license_key=clearkey
-#EXTINF: -1 tvg-logo="https://i.ibb.co/R3kDCyY/malut-vs-persikab.jpg" group-title="LIVE EVENT", 02.MALUT UNITED VS PERSIKAB BANDUNG
-#EXTVLCOPT:http-referrer=https://rafe500g.live-streamfootball.cfd/id/football/indonesian-liga-2-3881379/malut-united-vs-persikab-bandung.html
-https://fhls1a.1mv.xyz/by06scpx/s2001/v3a/aHR0cCUzQSUyRiUyRnRzNzcuM3hzdG0ub25l/vv/super/3x_564058.m3u8
-
-#KODIPROP:inputstream.adaptive.license_key=clearkey
-#EXTINF: -1 tvg-logo="https://i.ibb.co/BsTvvNJ/psim-vs-nusantara-fc.jpg" group-title="LIVE EVENT", 03.PSIM VS NUSANTARA FC
-#EXTVLCOPT:http-referrer=https://rafe500g.live-streamfootball.cfd/id/football/indonesian-liga-2-3842525/psim-yogyakarta-vs-nusantara-united.html
-https://fhls1a.1mv.xyz/by06scpx/s2001/v3a/aHR0cCUzQSUyRiUyRnRzNzcuM3hzdG0ub25l/vv/super/3x_564078.m3u8
-
-#KODIPROP:inputstream.adaptive.license_key=clearkey
-#EXTINF: -1 tvg-logo="https://i.ibb.co/M5ydSFf/persebaya-vs-persis.jpg" group-title="LIVE EVENT", 04.PERSEBAYA VS PERSIS SOLO
-#EXTVLCOPT:http-referrer=
+#EXTINF: -1 tvg-logo="https://i.ibb.co/47DkkDw/20231211-075033.jpg" group-title="LIVE EVENT", TIDAK ADA BOLA HARI INI 
 https://media.publit.io/file/comingsoon.mp4
+
 
 
 
