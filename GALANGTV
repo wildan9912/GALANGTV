@@ -1,9 +1,20 @@
 #EXTINF: -1 tvg-logo="https://i.ibb.co/SQ2VFSX/20230811-040121.png" group-title="PERINGATAN", GALANG RAMADHAN
 https://media.publit.io/file/Tak-berjudul-2-480p-1.mp4
 
-#EXTINF: -1 tvg-logo="https://i.ibb.co/47DkkDw/20231211-075033.jpg" group-title="LIVE EVENT", TIDAK ADA BOLA HARI INI 
+#KODIPROP:inputstream.adaptive.license_key=clearkey
+#EXTINF: -1 tvg-logo="https://i.ibb.co/R9dzx8q/psis-vs-madura.jpg" group-title="LIVE EVENT", 01.PSIS VS MADURA
+#EXTVLCOPT:http-referrer=
 https://media.publit.io/file/comingsoon.mp4
 
+#KODIPROP:inputstream.adaptive.license_key=clearkey
+#EXTINF: -1 tvg-logo="https://i.ibb.co/vVWL2J7/rans-vs-borneo.jpg" group-title="LIVE EVENT", 02.RANS VS BORNEO
+#EXTVLCOPT:http-referrer=
+https://media.publit.io/file/comingsoon.mp4
+
+#KODIPROP:inputstream.adaptive.license_key=clearkey
+#EXTINF: -1 tvg-logo="https://i.ibb.co/HhBBh2z/persija-vs-pss-sleman.jpg" group-title="LIVE EVENT", 03.PERSIJA VS PSS SLEMAN 
+#EXTVLCOPT:http-referrer=
+https://media.publit.io/file/comingsoon.mp4
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co/cC2sSc0/20231113-200301.jpg" group-title="PENGAJIAN", GUS IDHAM
 https://live-yt.streamingastv.workers.dev/live/_yldH7ECXCI/master.m3u8?|referer=https://t.me/astvstreaming
