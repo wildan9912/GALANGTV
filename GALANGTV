@@ -186,6 +186,7 @@ https://live-yt.streamingastv.workers.dev/live/Y7YCU32Pz-w/master.m3u8?|referer=
 https://live-yt.streamingastv.workers.dev/live/EExgaFKEXAU/master.m3u8?|referer=https://t.me/astvstreaming
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ytimg.com/vi/X92lb2EwrjM/maxresdefault_live.jpg",Booba LIVE 🔴 Üst üste en iyi diziler 💚 Super Toons TV Animasyon
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703213669/ei/BaaEZcilA6Xtz7sPze6ToAI/ip/125.166.12.61/id/xW4GMKa0Sus.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/spc/UWF9f4W_ArQhKhPZNa-QzxEBqO4uLlrySIkoaK0BEQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgL4uAWAnQqpfPNoKpt3O3V1x3sAQfTRCdSGujUJxNktkCID5mpbjecVmJRuZh7Hg3p42X0K6P3VbZMYmcz0hmhxg8/file/index.m3u8
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ytimg.com/vi/iOn0He_ihr4/maxresdefault_live.jpg",🔴  Jungle Beat LIVE! | The Adventures of Munki & Trunk | Kids Cartoon 2023
 https://live-yt.streamingastv.workers.dev/live/iOn0He_ihr4/master.m3u8?|referer=https://t.me/astvstreaming
