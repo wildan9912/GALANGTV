@@ -29,7 +29,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co/SrKxLDT/net.jpg" group-title="LOKAL", NET TV
-https://op-group1-swiftservehd-1.dens.tv/h/h223/01.m3u8
+http://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
@@ -67,7 +67,7 @@ http://watchlive.my.id/sa_dash_vmx/MNCTV-HD.mpd
 http://watchlive.my.id/sa_dash_vmx/iNewsTV-HDD.mpd
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co/pRjRS5Y/moji.jpg" group-title="LOKAL", MOJI
-http://op-group1-swiftservehd-1.dens.tv/h/h210/02.m3u8
+http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/23|user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
