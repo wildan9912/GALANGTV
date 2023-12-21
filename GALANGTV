@@ -156,7 +156,7 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(c99739b1-0748
 https://github.com/andriwibowo2222/tvip/raw/main/horeee.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co/XCxYMYS/20230828-042523.png" group-title="KIDS", TAYO TV
-https://live-yt.streamingastv.workers.dev/live/lw-oXpGAR8Q/master.m3u8?|referer=https://t.me/astvstreaming
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703213954/ei/IqeEZb35ELTL3LUPzLqjwAM/ip/125.166.12.61/id/lw-oXpGAR8Q.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/spc/UWF9fxT5HETeBJqXJZJs0P6KkaYnduu_tiWiZVOzmA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhANeI_3I4xdPabO0rqzKGWz8xPudZldRPrZjcbZ4GjdMtAiAg6OgSTNf9Wb1tn95qXoMeCh604BxRT3DOlbHaeY50zA%3D%3D/file/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
@@ -175,9 +175,6 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703213297/ei/k
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ytimg.com/vi/72i29Gls0GY/maxresdefault_live.jpg", ANTIKS LIVE
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703212421/ei/JaGEZcWjG6zljuMPoYSN4AE/ip/125.166.12.61/id/72i29Gls0GY.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/spc/UWF9f29JEIu2-_WIplEV7JWA4fwNtwIaO2EvGVEYaQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgGcbzl1s0xfU738wIen5xQ3FYBs0WCxr75dXwyGJhcEoCIQDZ1StsL0vjx9_iOQOFIhnW0bjrDVdXFs8PnuXexiwdkQ%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ytimg.com/vi/sOlYdRDYciE/maxresdefault_live.jpg",LIVE 🥳 Tatty dan Misifu 
-https://live-yt.streamingastv.workers.dev/live/sOlYdRDYciE/master.m3u8?|referer=https://t.me/astvstreaming
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ytimg.com/vi/Y7YCU32Pz-w/maxresdefault_live.jpg",🔴 Live | Bing: Episode Lengkap | Bing Bahasa Indonesia
 https://live-yt.streamingastv.workers.dev/live/Y7YCU32Pz-w/master.m3u8?|referer=https://t.me/astvstreaming
