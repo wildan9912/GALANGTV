@@ -189,7 +189,7 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703213669/ei/B
 https://live-yt.streamingastv.workers.dev/live/iOn0He_ihr4/master.m3u8?|referer=https://t.me/astvstreaming
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ytimg.com/vi/3ni9YJHkKHw/maxresdefault_live.jpg",🔴 CURIOUS GEORGE 24/7 MARATHON! 🐵 Livestream for Kids ✨ Cartoons for Children 🐵
-https://live-yt.streamingastv.workers.dev/live/3ni9YJHkKHw/master.m3u8?|referer=https://t.me/astvstreaming
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703214261/ei/VaiEZcGUDo6r3LUP5aStyA0/ip/125.166.12.61/id/ZUQltf2V8xk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/spc/UWF9fyVyOiVDCfShoa0BJGpRNVJs4x-tPH2GiVyNQg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgcuzN_WE4obMtMsQo660Lt5TCJsceZR4di7mEGryihCACIQCDcCpBTv4yqaNecti6DtoHouErhFCxlTMpNoBKZUn8gg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ytimg.com/vi/xChngbFo6hg/maxresdefault_live.jpg",🔴 DIRECT 🔴 TOUS LES ÉPISODES DE Talking Tom Shorts 😻 DIFFUSION EN DIRECT SPÉCIALE
 https://live-yt.streamingastv.workers.dev/live/xChngbFo6hg/master.m3u8?|referer=https://t.me/astvstreaming
