@@ -27,6 +27,10 @@ https://drm-epl-vidio-com-epl-1.akamaized.net/out/v1/1b34ee57680f49229adaa19b74a
 #EXTINF: -1 tvg-logo="https://i.ibb.co/0jy4s0g/luton-town-vs-newcastle.jpg" group-title="LIVE EVENT", 05.LUTON TOWN VS NEWCASTLE
 https://drm-epl-vidio-com-epl-2.akamaized.net/out/v1/213998e62d2c4e5f9cf9e832d4502b83/index.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF: -1 tvg-logo="https://i.ibb.co/Pz5cmbz/inter-milan-vs-lecce.jpg" group-title="LIVE EVENT", 06.INTER MILAN VS LECCE
+https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
 
 
 
