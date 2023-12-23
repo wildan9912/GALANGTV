@@ -32,6 +32,11 @@ https://drm-epl-vidio-com-epl-2.akamaized.net/out/v1/213998e62d2c4e5f9cf9e832d45
 #EXTINF: -1 tvg-logo="https://i.ibb.co/Pz5cmbz/inter-milan-vs-lecce.jpg" group-title="LIVE EVENT", 06.INTER MILAN VS LECCE
 https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a8eddebc801dbfca167dc077abd1c9dc:5f2fe1b86e14b590249fa9a813821377
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF: -1 tvg-logo="https://i.ibb.co/ZMn4mTF/20231223-172312.jpg" group-title="LIVE EVENT", 07.LIVERPOOL VS ARSENAL
+https://drm-epl-vidio-com-epl-5.akamaized.net/out/v1/17b4c59118e74b8d8f5761a7e10d1be2/index.mpd
 
 
 
