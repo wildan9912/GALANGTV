@@ -4,6 +4,12 @@ https://media.publit.io/file/Tak-berjudul-2-480p-1.mp4
 #EXTINF: -1 tvg-logo="https://i.ibb.co/Yj4D26B/20231211-075033.jpg" group-title="LIVE EVENT", LIGA 1 BRI
 https://media.publit.io/file/comingsoon.mp4
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF: -1 tvg-logo="https://i.ibb.co/PWtxKQL/20231223-152619.jpg" group-title="LIVE EVENT", FROSINONE VS JUVENTUS
+https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
+
+
 
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co/cC2sSc0/20231113-200301.jpg" group-title="PENGAJIAN", GUS IDHAM
