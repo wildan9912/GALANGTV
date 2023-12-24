@@ -4,9 +4,11 @@ https://media.publit.io/file/Tak-berjudul-2-480p-1.mp4
 #EXTINF: -1 tvg-logo="https://i.ibb.co/Yj4D26B/20231211-075033.jpg" group-title="LIVE EVENT", 01.LIGA 1 BRI
 https://media.publit.io/file/comingsoon.mp4
 
-#KODIPROP:inputstream.adaptive.license_key=clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=792c9b382615c47fdfb840dfd2387b8b:c86191afc372c5006ebab6e8bdf61e14
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF: -1 tvg-logo="https://i.ibb.co/qNPBRBN/20231224-083512.jpg" group-title="LIVE EVENT", 02.WOLVES VS CHELSEA
-https://media.publit.io/file/comingsoon.mp4
+https://drm-epl-vidio-com-epl-1.akamaized.net/out/v1/1b34ee57680f49229adaa19b74a9b60d/index.mpd
 
 
 
