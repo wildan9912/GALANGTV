@@ -82,6 +82,9 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(bd164a95-722d-40
 #EXTINF: -1 tvg-logo="https://i.ibb.co/W6txh94/kompastv.jpg" group-title="LOKAL", KOMPAS TV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.ibb.co/yqFcLWN/20231225-143150.png" group-title="LOKAL", CNN INDONESIA
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
+
 #EXTINF: -1 tvg-logo="https://i.ibb.co/PzsSPL9/20230818-000302.png" group-title="TV DAERAH", JTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
