@@ -4,9 +4,13 @@ https://media.publit.io/file/Tak-berjudul-2-480p-1.mp4
 #EXTINF: -1 tvg-logo="https://i.ibb.co/Yj4D26B/20231211-075033.jpg" group-title="LIVE EVENT", 01.LIGA 1 BRI
 https://media.publit.io/file/comingsoon.mp4
 
-#EXTINF: -1 tvg-logo="https://i.ibb.co/BzvNGxN/international-friendly-match-indonesia-vs-libya.jpg" group-title="LIVE EVENT", 02. INDONESIA VS LIBYA
+#EXTINF: -1 tvg-logo="https://i.ibb.co/z29FFM7/20240101-104952.jpg" group-title="LIVE EVENT", 02. INDONESIA VS LIBYA
 https://m.vidio.com/videos/8000491/common_tokenized_playlist.m3u8
 
+#KODIPROP:inputstream.adaptive.license_key=clearkey
+#EXTINF: -1 tvg-logo="https://i.ibb.co/z29FFM7/20240101-104952.jpg" group-title="LIVE EVENT", 03. INDONESIA VS LIBYA
+#EXTVLCOPT:http-referrer=https://aron51gg.superabbit77.beauty/id/football/international-friendly-3885374/libya-vs-indonesia.html
+https://media.publit.io/file/comingsoon.mp4
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co/cC2sSc0/20231113-200301.jpg" group-title="PENGAJIAN", GUS IDHAM
 https://live-yt.streamingastv.workers.dev/live/_yldH7ECXCI/master.m3u8?|referer=https://t.me/astvstreaming
