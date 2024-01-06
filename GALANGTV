@@ -4,9 +4,15 @@ https://media.publit.io/file/Tak-berjudul-2-480p-1.mp4
 #EXTINF: -1 tvg-logo="https://i.ibb.co/Yj4D26B/20231211-075033.jpg" group-title="LIVE EVENT", 01.LIGA 1 BRI
 https://media.publit.io/file/comingsoon.mp4
 
-#EXTINF: -1 tvg-logo="https://i.ibb.co/VgSb1pP/20240101-104952.jpg" group-title="LIVE EVENT", 02. INDONESIA VS LIBYA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://etslive-2-vidio-com.akamaized.net/exp=1704472269~acl=/hls-p/ingest_16836_*/*~hmac=ebb77cbf8136cc0575cf5fa874ca7fa79173d6f698c6371a0b2e0c8800e31a8d/hls-p/ingest_16836_720p/index.m3u8
+#EXTINF: -1 tvg-logo="https://urlis.net/rak8fgmh" group-title="LIVE EVENT", 02.PSBS BIAK VS GRESIK UNITED
+https://media.publit.io/file/comingsoon.mp4
+
+#EXTINF: -1 tvg-logo="https://urlis.net/71jpkw31" group-title="LIVE EVENT", 03.PERSIPAL VS PERSIWAR
+https://media.publit.io/file/comingsoon.mp4
+
+#EXTINF: -1 tvg-logo="https://urlis.net/nta0az7o" group-title="LIVE EVENT", 03.PSMS MEDAN VS PERSIRAJA 
+https://media.publit.io/file/comingsoon.mp4
+
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co/cC2sSc0/20231113-200301.jpg" group-title="PENGAJIAN", GUS IDHAM
 https://live-yt.streamingastv.workers.dev/live/_yldH7ECXCI/master.m3u8?|referer=https://t.me/astvstreaming
