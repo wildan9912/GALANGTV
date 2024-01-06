@@ -5,7 +5,8 @@ https://media.publit.io/file/Tak-berjudul-2-480p-1.mp4
 https://media.publit.io/file/comingsoon.mp4
 
 #EXTINF: -1 tvg-logo="https://urlis.net/rak8fgmh" group-title="LIVE EVENT", 02.PSBS BIAK VS GRESIK UNITED
-https://media.publit.io/file/comingsoon.mp4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://etslive-2-vidio-com.akamaized.net/exp=1704537607~acl=/hls-p/ingest_15369_*/*~hmac=c8408695e5212b2b234cc2e9b26e0703eeb448a912c0550d7695cb94244e493c/hls-p/ingest_15369_720p/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://urlis.net/71jpkw31" group-title="LIVE EVENT", 03.PERSIPAL VS PERSIWAR
 https://media.publit.io/file/comingsoon.mp4
