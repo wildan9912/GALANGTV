@@ -4,11 +4,16 @@ https://media.publit.io/file/Tak-berjudul-2-480p-1.mp4
 #EXTINF: -1 tvg-logo="https://i.ibb.co/Yj4D26B/20231211-075033.jpg" group-title="LIVE EVENT", 01.LIGA 1 BRI
 https://media.publit.io/file/comingsoon.mp4
 
-#EXTINF: -1 tvg-logo="https://i.ibb.co/10VBSNr/indonesia-vs-irak.jpg" group-title="LIVE EVENT", 02.INDONESIA VS IRAK
+#EXTINF: -1 tvg-logo="https://i.ibb.co/10VBSNr/indonesia-vs-irak.jpg" group-title="LIVE EVENT", 03.INDONESIA VS IRAK
 #EXTVLCOPT:http-referrer=https://scott51gg.superabbit66.sbs/id/football/afc-asian-cup-3751084/indonesia-vs-iraq.html
 https://media.publit.io/file/comingsoon.mp4
 
-
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz
+#EXTINF: -1 tvg-logo="https://i.ibb.co/10VBSNr/indonesia-vs-irak.jpg" group-title="LIVE EVENT", 02.INDONESIA VS IRAK
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+ 
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co/cC2sSc0/20231113-200301.jpg" group-title="PENGAJIAN", GUS IDHAM
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1704743550/ei/Hv6bZZiHHaqb3LUPhsKMoAE/ip/125.166.12.73/id/3PChGptk3IQ.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/spc/UWF9f8HRK9hMhf7i3LHlEq3NlpimXfLZDonbkADdeQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAJJdPpAiSqUBQFY27fjFuMguu256XpDAEPpvkkZ8iHfcAiACm1g4Z1eSjiwqCtivjwHHBBv80goaGW-Js9i27bpeqQ%3D%3D/file/index.m3u8
