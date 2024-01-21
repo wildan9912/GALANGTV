@@ -16,7 +16,7 @@ https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0001/DASH/S0001.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=30c11587a1686b72f115f34b0bf1c383:1e3a6af2408cdd78347b722728560c3b
-#EXTINF: -1 tvg-logo="https://i.ibb.co/gvTpkMG/20240122-031052.jpg" group-title="SPORT", BEIN 2 AIS
+#EXTINF: -1 tvg-logo="https://i.ibb.co/xLF42f0/20240122-035526.jpg" group-title="SPORT", BEIN 2 AIS
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0002/DASH/S0002.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -230,13 +230,3 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703214261/ei/V
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ytimg.com/vi/xChngbFo6hg/maxresdefault_live.jpg",🔴 DIRECT 🔴 TOUS LES ÉPISODES DE Talking Tom Shorts 😻 DIFFUSION EN DIRECT SPÉCIALE
 https://live-yt.streamingastv.workers.dev/live/xChngbFo6hg/master.m3u8?|referer=https://t.me/astvstreaming
-
-#EXTINF: -1 tvg-logo="https://81.0.220.100/wp-content/uploads/2021/01/iaeLDEmSGXETrsUztPNeyM1xR3z-152x228.jpg" group-title="MOVIE", SOBAT AMBYAR
-https://lowhls1.surahusa.beauty/video/data/N3dzNWowV25JWG4zV3BsWitlL25tN0FiRmgxTlJ1Wmp4aHpSSUhUR3hDSWRmbXVzeXhMN0hOWDlBNFhWTndxdA==/doc.php?file=tes2.m3u8&idhls=N3dzNWowV25JWG4zV3BsWitlL25tN0FiRmgxTlJ1Wmp4aHpSSUhUR3hDSWRmbXVzeXhMN0hOWDlBNFhWTndxdA==.m3u8
-
-#EXTINF: -1 tvg-logo="https://81.0.220.100/wp-content/uploads/2022/11/ednnNePnbCj5z6DIbEWgxilqYPl-152x228.jpg" group-title="MOVIE", LORO ATI
-https://token-media-vidio-com.vidiocdn.net/uploads/7129264/edge-cache-token=Expires=1701832907&KeyName=tokenized-media-vidio-com-keyset&Signature=mv64YRoX02e0_mhVP24t_NTq4SDWajFm7TUv-Fpq5kQmKrSCSizTdhXMrnqKro0Q3qrhVFYQMSuPKmecuUeMDQ==/etsvod_ETS2078bb4760292caab_med.m3u8
-
-#EXTINF: -1 tvg-logo="https://81.0.220.100/wp-content/uploads/2021/08/xdGnBzwbdlkWY7toJwtrpBGvG0d-152x228.jpg" group-title="MOVIE", SELESAI
-https://n22485b.streamvid.net/hls/n5ajtkamybmne42h4vbqjazc2ivqdvizera6x4izdbk576bzarbpjflek7pq/index-v1-a1.m3u8
-
