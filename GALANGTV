@@ -16,7 +16,7 @@ https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0001/DASH/S0001.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=30c11587a1686b72f115f34b0bf1c383:1e3a6af2408cdd78347b722728560c3b
-#EXTINF: -1 tvg-logo="https://i.ibb.co/sb1tcKH/BEINSPORT2-AIS.jpg" group-title="SPORT", BEIN 2 AIS
+#EXTINF: -1 tvg-logo="https://i.ibb.co/gvTpkMG/20240122-031052.jpg" group-title="SPORT", BEIN 2 AIS
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0002/DASH/S0002.mpd
 
 
