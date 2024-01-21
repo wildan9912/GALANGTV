@@ -11,7 +11,7 @@ https://etslive-2-vidio-com.akamaized.net/live/13679/master.m3u8?auth=aFErdkFlK1
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3fd52d1e9ba4b180aec12c9295b62c0f:bb274e33da0c709e62c55d0cba911889
-#EXTINF: -1 tvg-logo="https://i.ibb.co/mhrYc3w/transtv.jpg" group-title="SPORT", BEIN 1 AIS
+#EXTINF: -1 tvg-logo="https://i.ibb.co/c6t7sNM/bein1ais.jpg" group-title="SPORT", BEIN 1 AIS
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0001/DASH/S0001.mpd
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co/cC2sSc0/20231113-200301.jpg" group-title="PENGAJIAN", GUS IDHAM
