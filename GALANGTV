@@ -4,11 +4,10 @@ https://media.publit.io/file/Tak-berjudul-2-480p-1.mp4
 #EXTINF: -1 tvg-logo="https://i.ibb.co/TbwtBnd/20230816-223144.jpg" group-title="LIVE EVENT", 01.LIGA 1 BRI
 https://media.publit.io/file/comingsoon.mp4
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz
-#EXTINF: -1 tvg-logo="https://i.ibb.co/WFjwDYf/20240124-041329.jpg" group-title="LIVE EVENT", 02.JEPANG VS INDONESIA
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://melon-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
+#EXTINF: -1 tvg-logo="https://i.ibb.co/mB972kC/20240125-203432.jpg" group-title="LIVE EVENT", KIRGIZSTAN VS OMAN
+#EXTVLCOPT:http-referrer=
+https://media.publit.io/file/comingsoon.mp4
+
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
