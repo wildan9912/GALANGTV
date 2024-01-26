@@ -4,11 +4,12 @@ https://media.publit.io/file/Tak-berjudul-2-480p-1.mp4
 #EXTINF: -1 tvg-logo="https://i.ibb.co/TbwtBnd/20230816-223144.jpg" group-title="LIVE EVENT", 01.LIGA 1 BRI
 https://media.publit.io/file/comingsoon.mp4
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=531c6d50e3e9f9ba66446f624f492289:d769d9ae238bdd424f8bcdcdc9a3801f
-#EXTINF: -1 tvg-logo="https://i.ibb.co/mB972kC/20240125-203432.jpg" group-title="LIVE EVENT", KIRGIZSTAN VS OMAN
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+#EXTINF: -1 tvg-logo="https://i.ibb.co/Mk7wM4t/psps-riau-vs-persikab.jpg" group-title="LIVE EVENT", 02.PSPS RIAU VS PERSIKAB
+https://media.publit.io/file/comingsoon.mp4
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co/4MTMS8w/indonesia-vs-thailand.jpg" group-title="LIVE EVENT", 03.INDONESIA U20 VS THAILAND U20
+https://media.publit.io/file/comingsoon.mp4
+
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
