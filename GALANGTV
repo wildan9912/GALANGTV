@@ -4,16 +4,11 @@ https://media.publit.io/file/Tak-berjudul-2-480p-1.mp4
 #EXTINF: -1 tvg-logo="https://i.ibb.co/TbwtBnd/20230816-223144.jpg" group-title="LIVE EVENT", 01.LIGA 1 BRI
 https://media.publit.io/file/comingsoon.mp4
 
-#EXTINF: -1 tvg-logo="https://i.ibb.co/Mk7wM4t/psps-riau-vs-persikab.jpg" group-title="LIVE EVENT", 02.PSPS RIAU VS PERSIKAB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://etslive-2-vidio-com.akamaized.net/live/206/master.m3u8?auth=aFErdkFlK1BDbXFMc3JNQ2p3QjFxbE1hTmwxQWViMUpLOHhjVmdYWVRnYlU3eUppNmhFR25HTHZUR1hXZnQxdnpMVG5lSWJOR0NxTUlmbi9EZFVCQWlueWJIVTFMYWhnek4rUFNvRnZRVHpEYlFqQ1VSY2F3Rm41SVZ3eWxzVlM4eDJXN0wzZVZpVStYQUdEYTBOc25tUXlaUWZnR2N4N1NFdVoyUGp4a2lDTlNsUC8xcnk0T2o1d3NjN1hrSlVsNzlqU2RmSXE5STRpR0I1elRwS2ZOcHNJbTdDVVdyVEVKK3FnOUdPMTc4bUpyc1YyR284Z3JqeUNXMFpWYVlrV2pMTVhZMkJwVENNS09rVmt3bkFaMVFtNG1KRU85Q1d1ajBhdmJOUDBJeHJiTnozRlhyOHRmaDlOVUNibEpOVnhBTmtyS01oS3R2ZWRwR3NSSmVGaWREZ1o5Wk55UzFEdHlmN0xXejJqa3MzU0pXMzZBendyLy9iWlhPVlc4dXErNGliMUFtclZKWGx6T1ArZ0xBL2xobVQ2WmFmL1ZPY0tBNjZHNGFINk02bWdLdjY3SWRlaTlTTEZDY25lZVdZaUFHNThTWkFqbGJQaEtBMUNsazhrYnFXajZDMU9PWElkZmNSM1YzQmJ2cmk3YUx1Y1FvdS9RcnZCcnYyazBBQ1ZYV1RveUpzbVluQUJCVkgzNThSMmNIeHErdzk3VmtLTEJVRkd5eGRSaml3M0JhZ1Y0c0d3cnJITTYzTmJVNkwzWm4vV1IyRlhjYkU1dUo3WmRCWkw5cnNCVWNGT2tubmdvL2dUNnQwYzcvUEwrQW9LYm1tNzd3Unp6MEp6OHh1d3BlN1FlNEw2TEx4bXVPZ0FDZUZ4R25OeTVoM2dKY3c5NkNYOENDY2tlaXV2NURzZE1VQUtmdGtHNVR0ZSttMUNOcTcvandCeG5HREVlb0RtL1huenBjbDFKK1ltZmxEVXA5K3N4L3ZTQkVhUXRPMlMwMVRodWlyVHdzbEEzM1pzZmsvK2x3VEp6Vm5aeUNJYmpZN1BmUT09&trace_id=a1d1e63291da8b88f24e3a5d9ad3e6c4/12473756943174526951
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ff9e5fa8162883cf6d3095ea91f9b284:e9237daae16919ca840459396c6fc465
-#EXTINF: -1 tvg-logo="https://i.ibb.co/4MTMS8w/indonesia-vs-thailand.jpg" group-title="LIVE EVENT", 03.INDONESIA U20 VS THAILAND U20
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/16961_stream.mpd?hdnts=exp=1706285678~acl=/drm/dash/*~id=145963101~hmac=2b4c831afa461dfba122402f3d193643333ecebd7dffadf9758c3db6c26df175
-
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz
+#EXTINF: -1 tvg-logo="https://i.ibb.co/r0FY4Qb/20240128-153848.jpg" group-title="LIVE EVENT", AUSTRALIA VS INDONESIA
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://melon-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3fd52d1e9ba4b180aec12c9295b62c0f:bb274e33da0c709e62c55d0cba911889
