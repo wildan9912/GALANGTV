@@ -4,11 +4,14 @@ https://media.publit.io/file/Tak-berjudul-2-480p-1.mp4
 #EXTINF: -1 tvg-logo="https://i.ibb.co/TbwtBnd/20230816-223144.jpg" group-title="LIVE EVENT", 01.LIGA 1 BRI
 https://media.publit.io/file/comingsoon.mp4
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz
-#EXTINF: -1 tvg-logo="https://i.ibb.co/r0FY4Qb/20240128-153848.jpg" group-title="LIVE EVENT", AUSTRALIA VS INDONESIA
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://melon-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fadd2720deff5925ab86df0819cd7775:f67ff08c7ebc779f6a6fcfc83835f65b
+#EXTINF: -1 tvg-logo="https://i.ibb.co/zPmkm7k/persebaya-vs-psis-semarang.jpg" group-title="LIVE EVENT",02.PERSEBAYA VS PSIS SEMARANG
+https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co/my9qb19/indonesia-vs-uzbekistan.jpg" group-title="LIVE EVENT", 03.INDONESIA U20 VS UZBEKISTAN U20
+https://media.publit.io/file/comingsoon.mp4
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3fd52d1e9ba4b180aec12c9295b62c0f:bb274e33da0c709e62c55d0cba911889
