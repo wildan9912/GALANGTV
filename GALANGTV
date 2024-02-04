@@ -1,19 +1,11 @@
 #EXTINF: -1 tvg-logo="https://i.ibb.co/SQ2VFSX/20230811-040121.png" group-title="PERINGATAN", GALANG RAMADHAN.
 https://media.publit.io/file/Tak-berjudul-2-480p-1.mp4
 
-#EXTINF: -1 tvg-logo="https://i.ibb.co/TbwtBnd/20230816-223144.jpg" group-title="LIVE EVENT", 01.LIGA 1 BRI
+#EXTINF: -1 tvg-logo="https://i.ibb.co/Gvd8QX7/arema-vs-psis.jpg" group-title="LIVE EVENT", 01.AREMA FC VS PSIS SEMARANG
 https://media.publit.io/file/comingsoon.mp4
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fadd2720deff5925ab86df0819cd7775:f67ff08c7ebc779f6a6fcfc83835f65b
-#EXTINF: -1 tvg-logo="https://i.ibb.co/zPmkm7k/persebaya-vs-psis-semarang.jpg" group-title="LIVE EVENT",02.PERSEBAYA VS PSIS SEMARANG
-https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ff9e5fa8162883cf6d3095ea91f9b284:e9237daae16919ca840459396c6fc465
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF: -1 tvg-logo="https://i.ibb.co/my9qb19/indonesia-vs-uzbekistan.jpg" group-title="LIVE EVENT", 03.INDONESIA U20 VS UZBEKISTAN U20
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/16961_stream.mpd?hdnts=exp=1706630641~acl=/drm/dash/*~id=151029070~hmac=72ae1135567798a91164b418ea05579ec1d66880990d70de1949c125b05b02df
+#EXTINF: -1 tvg-logo="https://i.ibb.co/ZWJP1gc/persik-vs-bali-united.jpg" group-title="LIVE EVENT", 02.PERSIK KEDIRI VS BALI UNITED
+https://media.publit.io/file/comingsoon.mp4
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3fd52d1e9ba4b180aec12c9295b62c0f:bb274e33da0c709e62c55d0cba911889
