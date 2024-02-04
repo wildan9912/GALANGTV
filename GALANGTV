@@ -121,6 +121,11 @@ https://nyanv-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 #EXTINF: -1 tvg-logo="https://i.ibb.co/yqFcLWN/20231225-143150.png" group-title="LOKAL", CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmupart4.xxxxxxxxxxxxxxxxxx.workers.dev
+#EXTINF: -1 tvg-logo="https://i.ibb.co/WycW3mV/bioskop-indonesia.jpg" group-title="LOKAL", BIOSKOP INDONESIA
+https://cdnjktzen.transvision.co.id/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.mpd
+
 #EXTINF: -1 tvg-logo="https://i.ibb.co/h1vWw5z/20231225-143702.jpg" group-title="LOKAL", CNBC INDONESIA
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w2018496991_b384000_sleng.m3u8
 
