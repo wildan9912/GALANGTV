@@ -227,3 +227,8 @@ https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c68572841ba301729d45623
 #KODIPROP:inputstream.adaptive.license_key=https://cubmupart4.xxxxxxxxxxxxxxxxxx.workers.dev
 #EXTINF: -1 tvg-logo="https://i.ibb.co/fq1JJHF/cartoon-premium.jpg" group-title="KIDS", CARTOON PREMIUM
 https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c6856b8d2390016b9c47b6f01de1/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widivine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmupart4.xxxxxxxxxxxxxxxxxx.workers.dev
+#EXTINF: -1 tvg-logo="https://i.ibb.co/LhnXgMF/dunia-anak.jpg" group-title="KIDS", DUNIA ANAK
+https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cdc32eb0c439c/manifest.mpd
