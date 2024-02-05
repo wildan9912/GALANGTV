@@ -1,13 +1,15 @@
 #EXTINF: -1 tvg-logo="https://i.ibb.co/SQ2VFSX/20230811-040121.png" group-title="PERINGATAN", GALANG RAMADHAN.
 https://media.publit.io/file/Tak-berjudul-2-480p-1.mp4
 
-#EXTINF: -1 tvg-logo="https://i.ibb.co/Gvd8QX7/arema-vs-psis.jpg" group-title="LIVE EVENT", 01.AREMA FC VS PSIS SEMARANG
-https://media.publit.io/file/y2mate.com-Terima-Kasih-Sudah-Menonton-Outro-27-video-penutup-no-copyright-720p.mp4
+#EXTINF: -1 tvg-logo="https://i.ibb.co/WHM2yyX/madura-vs-rans.jpg" group-title="LIVE EVENT", 01.MADURA VS RANS 
+https://media.publit.io/file/comingsoon.mp4
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fadd2720deff5925ab86df0819cd7775:f67ff08c7ebc779f6a6fcfc83835f65b
-#EXTINF: -1 tvg-logo="https://i.ibb.co/ZWJP1gc/persik-vs-bali-united.jpg" group-title="LIVE EVENT", 02.PERSIK KEDIRI VS BALI UNITED
-https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd 
+#EXTINF: -1 tvg-logo="https://i.ibb.co/tpyRhPG/dewa-vs-barito.jpg" group-title="LIVE EVENT", 02.DEWA UNITED VS BARITO PUTRA
+https://media.publit.io/file/comingsoon.mp4
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co/9rJyDCb/borneo-vs-persija.jpg" group-title="LIVE EVENT", 03.BORNEO VS PERSIJA JAKARTA
+https://media.publit.io/file/comingsoon.mp4
+
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
