@@ -9,9 +9,11 @@ https://etslive-2-vidio-com.akamaized.net/live/205/master.m3u8?auth=Q2ZJVFo5akNE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://etslive-2-vidio-com.akamaized.net/live/13610/master.m3u8?auth=Q2ZJVFo5akNEK1FrT0graHJBZkprcitiR2ZRWStZbE9sQVU4TDFUNlVrNEgxS00vTDVJekdCNlpaN0E5NU5yNXEyWjVSZFkwa3Z2ZmF6SW5ITU9lUGZ4ZkdDMmVRL2gwVjlhMWh4MExDK1l5WDhoVDk1R1RXSmF4VEt3cjE5ZWljSHdrWUlicTk2UFk0VUVZVzBldjVPT0pCeHdtTkNBalVwRnljN3o3VEx5Zzg0UWJYbkhBeUYrdmN1Ulh4QjdSSm5zcmJReWZmb1VsSFBmYittSFdJWWNCMHpNT3FLem8wU1h4aGg4eG1nWEdNSEw5RlVsKzZwZE1JcVJvOGh0TUZiSzZnK3h5VWw1RDNPN2RMTkhJc2x4Nitrc1lzTTlpYSswWjdRakR3NHFLMVluRWtoSjR0MVNVdFlLbE9QUkdzcHhmNTlMeVQxWXJGOVhZWEVYWTRDZFJkM2JqTG9yVXhlNFlQTlp6Q1gwc2F4R0h5bHZwUDVDWGVQakx0YkRFQnpYNnp2SVZ4KzIwTldYMlg2ckl3cDZqZmxVUGdSTnlHZWc4anVFYzc4LyswZXcvRVVIb24xbGtGbm5wRzVTRlZUZi9tTUhMMXhLM3VFUE1WaDI1ZjJDa0laVXp3RkFRQWNIcHdISXdSRG1ua0FuMklSa2NqRndhT1lIUmhVMHNEUVdRZGs3RW14SysyTnFoZHA1UWVpVGllcFk4aVQrWEdtbEFLU0ZrT0FRZHZiRjhOMEFMRDJ1OVpTZFlrWVllZHpNL3o4azhuSHZkcUhndEl2b3dseVRHenlBTHZmbnFtMFM4bnhEWFlRZU1sQWtHNkFGSUpmb09pQzQ1aWcrNmVOcDhicnNlUDdaMVY1OFBCc1lQVHRMclpNKy9iVGc5c3I4citaWTEwYXZBOGFsNGNzYjcyS01VRU85TUFTOEE4bk5sUVZaYjJTQ21NckhjdWR2SW1acHFJSXpvcDJDWlpVMlVSNXJlb21NQlJNZzFvR1VQM21yMU1abGM4Tkt4QVd3MWFmcjRUYWZZZmtCbDVFQysyajJ2UnlLSGRvcXVKNU5Ba0NnZkpwWT0=&trace_id=6f57438f0a23440664f31c85b57cffbc/7460537544808991014
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1cd196355f40cb90ba53f158c1f91ff1:3e11d3107766f5a8163069e525272c1d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF: -1 tvg-logo="https://i.ibb.co/9rJyDCb/borneo-vs-persija.jpg" group-title="LIVE EVENT", 03.BORNEO VS PERSIJA JAKARTA
-https://media.publit.io/file/comingsoon.mp4
-
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/13559_stream.mpd?hdnts=exp=1707234991~acl=/drm/dash/*~id=151186759~hmac=14234ba4122033a54715ebcb63473713ec2b9a06f7566e5006eef9430207d354
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
