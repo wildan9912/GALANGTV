@@ -12,6 +12,8 @@ https://etslive-2-vidio-com.akamaized.net/live/13610/master.m3u8?auth=Q2ZJVFo5ak
 #EXTINF: -1 tvg-logo="https://i.ibb.co/y8cGh7x/persija-vs-madura.jpg" group-title="LIVE EVENT", 3.PERSIJA VS MADURA
 https://media.publit.io/file/comingsoon.mp4
 
+#EXTINF: -1 tvg-logo="https://i.ibb.co/7gDnL2X/rans-vs-arema.jpg" group-title="LIVE EVENT", 4.RANS VS AREMA FC
+https://media.publit.io/file/comingsoon.mp4
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3fd52d1e9ba4b180aec12c9295b62c0f:bb274e33da0c709e62c55d0cba911889
