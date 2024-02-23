@@ -11,8 +11,11 @@ https://etslive-2-vidio-com.akamaized.net/live/13561/master.m3u8?auth=Q2ZJVFo5ak
 #EXTINF: -1 tvg-logo="https://i.ibb.co/7zKJJkX/persita-vs-persebaya.jpg" group-title="LIVE EVENT", 2.PERSITA VS PERSEBAYA
 https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/13559_stream.mpd?hdnts=exp=1708690000~acl=/drm/dash/*~id=151186759~hmac=7123d61829735a03be9685c3b42fc3263b0db089df6c005ac35967f7036eb4a9
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1cd196355f40cb90ba53f158c1f91ff1:3e11d3107766f5a8163069e525272c1d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 #EXTINF: -1 tvg-logo="https://i.ibb.co/gVdWLTM/barito-vs-persib.jpg" group-title="LIVE EVENT", 3.BARITO VS PERSIB BANDUNG
-https://media.publit.io/file/comingsoon.mp4
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/13559_stream.mpd?hdnts=exp=1708702342~acl=/drm/dash/*~id=151029070~hmac=5a4e17df7a8608cbcaeac017b0767b8cfb98837b90282391bcede7c6a9de7359
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
