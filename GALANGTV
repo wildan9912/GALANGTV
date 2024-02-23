@@ -1,22 +1,11 @@
 #EXTINF: -1 tvg-logo="https://i.ibb.co/SQ2VFSX/20230811-040121.png" group-title="PERINGATAN", GALANG RAMADHAN.
 https://media.publit.io/file/Tak-berjudul-2-480p-1.mp4
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF: -1 tvg-logo="https://i.ibb.co/YRcdz3f/20240223-015707.jpg" group-title="LIVE EVENT", 1.PSIS SEMARANG VS DEWA UNITED
-https://etslive-2-vidio-com.akamaized.net/live/13561/master.m3u8?auth=Q2ZJVFo5akNEK1FrT0graHJBZkprcitiR2ZRWStZbE9sQVU4TDFUNlVrNEgxS00vTDVJekdCNlpaN0E5NU5yNXNmWmNyOGlyNlB0NlNmWWxIc3Nadmh0QmRlL21XakxmTk5KSnFwMEcycytlTFREeUY4bG5yZlVPeFZmbUoxd3JOcEErUXBNSGhvRGk1R2JreFNCcEh0Z21xQ2lsS2drT0JubjNoSzlsek4yUzZ4SUNPdEFwNDdGMFFrTFRycktWdWxldkViRWhJU2YvTWNOMkEvV2dBMFk2Y25zUURJWXVNMWZ5SEYybDJpWEFVNVI4NHRTbFlDSmI1eXh2NzhhaXVvQTA5VUNXUHBUcDdKc3EzSjErUmwzaVF6em9wZnpQTHR0V3Z5QmR4N0NFT3VWdHVXdDRoSmxDUDA1U1Uyb1J1aENCM3EwZmJrcTdnc0RVTllrTS9uUmhuODFNTFJnNWZPZ2FBcnRaQThlZGh2MXE5cDlzcEFoWDVaVFozZFVuVW9WVFNSWDMvNDcvdTBYUUs0RTk3OUxXcU81eFJZU2tKZ0lwajJUcHhLTnpyUWUzbXdoMHRYYTI0c2U5Rmt6U3JnRy9SaUlScVBqZ3c5NXRqS0xCcmhobmhsSzFvc0FRT0ZoTllKNEdMdzZDcnFBcFBwYjJkUnRuUElEUXcvM2gyOHpnaVdDdG8vL3RsZzUzU0pneE81SmE2Z3R4MXN5NUFLL2MyOVRHMUFjUDBreWpJN2VTQ3BSWUVGRlBERHV2ZjBKNWdaL2FIQm5qREpwUjN2QWN0bzk0cDZLQjJyNllBSkUzUTMzc3E2SmhhOE00ZllvdDNQT2ZPOXhuN0JsWGJZWlBLRzRDNDAzUW5oOHlwM0p1VDJVNSsrZjhIUFhxbzdraEdUdEZCcUR2akQ1YVE2eEhBZ1Q4TEsxWCtmdDZXQUZ0dGl5M2pEbTM2ejkrV284R09nY3A0MlJsODV2dy9GOTRnUFM3aGFUOTJQdkFSZDgxM3NlVzJvNElNVmNJVllWd2J6T0Nra1NRS2VxYUcwckk1Y0tHcEZXQlJ0MzlHeFE5Yk1HK1Iwaz0=&trace_id=940e4783d5a47313119d5bdf8074445a/1176930487300618683
+#EXTINF: -1 tvg-logo="https://i.ibb.co/nDZCyD5/persik-kediri-vs-persis-solo.jpg" group-title="LIVE EVENT", 1.PERSIK KEDIRI VS PERSIS SOLO
+https://media.publit.io/file/comingsoon.mp4
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1cd196355f40cb90ba53f158c1f91ff1:3e11d3107766f5a8163069e525272c1d
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF: -1 tvg-logo="https://i.ibb.co/7zKJJkX/persita-vs-persebaya.jpg" group-title="LIVE EVENT", 2.PERSITA VS PERSEBAYA
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/13559_stream.mpd?hdnts=exp=1708690000~acl=/drm/dash/*~id=151186759~hmac=7123d61829735a03be9685c3b42fc3263b0db089df6c005ac35967f7036eb4a9
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1cd196355f40cb90ba53f158c1f91ff1:3e11d3107766f5a8163069e525272c1d
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-#EXTINF: -1 tvg-logo="https://i.ibb.co/gVdWLTM/barito-vs-persib.jpg" group-title="LIVE EVENT", 3.BARITO VS PERSIB BANDUNG
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/13559_stream.mpd?hdnts=exp=1708702342~acl=/drm/dash/*~id=151029070~hmac=5a4e17df7a8608cbcaeac017b0767b8cfb98837b90282391bcede7c6a9de7359
-
+#EXTINF: -1 tvg-logo="https://i.ibb.co/FVsbxLj/psm-makassar-vs-bali-united.jpg" group-title="LIVE EVENT", 2.PSM MAKASSAR VS BALI UNITED
+https://media.publit.io/file/comingsoon.mp4
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3fd52d1e9ba4b180aec12c9295b62c0f:bb274e33da0c709e62c55d0cba911889
