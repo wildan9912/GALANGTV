@@ -1,15 +1,8 @@
 #EXTINF: -1 tvg-logo="https://i.ibb.co/SQ2VFSX/20230811-040121.png" group-title="PERINGATAN", GALANG RAMADHAN.
 https://media.publit.io/file/Tak-berjudul-2-480p-1.mp4
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF: -1 tvg-logo="https://i.ibb.co/nDZCyD5/persik-kediri-vs-persis-solo.jpg" group-title="LIVE EVENT", 1.PERSIK KEDIRI VS PERSIS SOLO
-https://etslive-2-vidio-com.akamaized.net/live/205/master.m3u8?auth=Q2ZJVFo5akNEK1FrT0graHJBZkprcitiR2ZRWStZbE9sQVU4TDFUNlVrNEgxS00vTDVJekdCNlpaN0E5NU5yNXdXYmMxencveWFKUWxJbkUvVWpnMkFrYzdmTFU3T1V5ZFlOcm5sMTFHRnhWUTQrYlQwcStpdm9Pb3N0MXZzMGZWOWdreVVsSGU1bmNjMjJQa3BiamhsYmJXU2FsdWtCSlBSV2g5UGpSd1dyU2VVbjhMYm01dHN3bDBvVEliZFlwaTF2WEdPSkJEY0krTitrL2hzbDNESmhXZXZ0WklhQW0zRUhyNDQweEpMS2w3V0FqZ2poTmk4K0plRENSZzl0UjUxc1RWYjZXWk8xMVRVUUpZcW9VdDdqUkVydmo1WmZKMGY5NWZCYzQvUmJQeHdUOWg5WVVPUDhUZFk0YldHSW1Wb2JpZFBvQllIWGFFYnpFdkNIL1ZBWGF0Y3hNOHVDc1VhK0tjQ3pteWpCd1RkYTY0OVh6b1BhSDU4SThlUUExaXVmZ052YXNLQmoxcDdxVHJrR0VTVzJEU2ZkczgzbnRWZUdPc1duTXhrL09tNnJkMi9xQzZ6K2V4N1MvUEdxRDVVVXQzSnhXdHRMOEIvZWhjcjNmcjBmd0NDZGh4cFVCRDhnbnpSeDFUWG5sRTR6RUxaZTNtdXp5bXdtQk9YWEEwMkNMbDI3YWJwaW82YzhKWGtRZzRGMXVuZllWMGZjRm8rRjNKMi9nNXd6eVl4Zm9BdXQzRVExNWp1YTQzS0M4L0RYcW16UTZTdHB1SExVK0NCcC9rY2ZydklwYzhCN2dWQm0xOTJjSEN0cjBJSE80MWZwTnFkdEtZRGtGV2Iva3JaaHN3bXNXOXVVeDNTSmhLbXJ2WHVYM25lNlpLak55Yjh4UUtEVDZrZmJvc3lWc1RyajdWSGZvQzJ1a3BnbWJKUW5zTXRQZkpWazJYRnJJaUVrNzRxZllTOG5HRno4VkVjR1o2TjR1aE9YZ0VIUTltaWpBQytBS2dZS3pGeVVWaVBZeTcxcElDRXcyUWJsb2svR2hFUT09&trace_id=c7d65a59d4f8cf57446cf9d95bb486aa/9871419514883351179
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a2d503a516b6801abebe666e5201ad80:b589708542097f38c6885e35fdacdc62
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF: -1 tvg-logo="https://i.ibb.co/FVsbxLj/psm-makassar-vs-bali-united.jpg" group-title="LIVE EVENT", 2.PSM MAKASSAR VS BALI UNITED
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/15680_stream.mpd?hdnts=exp=1708789375~acl=/drm/dash/*~id=151029070~hmac=3ed9f3217d5c04d539cc45b5c67bbd0711daf4548ed300f0040ac96d15694fb5
+#EXTINF: -1 tvg-logo="https://i.ibb.co/TbwtBnd/20230816-223144.jpg" group-title="LIVE EVENT", BRI LIGA 1
+https://media.publit.io/file/Coming-Soon-Title-with-sound-Effect-After-Effects-videos-Motion-Typography-CopyrightFreeVideos01.mp4
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3fd52d1e9ba4b180aec12c9295b62c0f:bb274e33da0c709e62c55d0cba911889
