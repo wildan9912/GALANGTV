@@ -1,8 +1,14 @@
 #EXTINF: -1 tvg-logo="https://i.ibb.co/SQ2VFSX/20230811-040121.png" group-title="PERINGATAN", GALANG RAMADHAN.
 https://media.publit.io/file/Tak-berjudul-2-480p-1.mp4
 
-#EXTINF: -1 tvg-logo="https://i.ibb.co/TbwtBnd/20230816-223144.jpg" group-title="LIVE EVENT", BRI LIGA 1
-https://media.publit.io/file/Coming-Soon-Title-with-sound-Effect-After-Effects-videos-Motion-Typography-CopyrightFreeVideos01.mp4
+#EXTINF: -1 tvg-logo="https://i.ibb.co/nDf2GtY/arema-vs-persija.jpg" group-title="LIVE EVENT", 1.AREMA FC VS PERSIJA
+https://media.publit.io/file/comingsoon.mp4
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co/N2hsG4s/borneo-vs-bhayangkara.jpg" group-title="LIVE EVENT", 2.BORNEO VS BHAYANGKARA
+https://media.publit.io/file/comingsoon.mp4
+
+
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3fd52d1e9ba4b180aec12c9295b62c0f:bb274e33da0c709e62c55d0cba911889
