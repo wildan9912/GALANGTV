@@ -1,8 +1,9 @@
 #EXTINF: -1 tvg-logo="https://i.ibb.co/SQ2VFSX/20230811-040121.png" group-title="PERINGATAN", GALANG RAMADHAN.
 https://media.publit.io/file/Tak-berjudul-2-480p-1.mp4
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF: -1 tvg-logo="https://i.ibb.co/qkg82b4/persik-vs-barito.jpg" group-title="LIVE EVENT", 1.PERSIK VS BARITO
-https://media.publit.io/file/comingsoon.mp4
+https://etslive-2-vidio-com.akamaized.net/live/205/master.m3u8?auth=Q2ZJVFo5akNEK1FrT0graHJBZkprcitiR2ZRWStZbE9sQVU4TDFUNlVrNEgxS00vTDVJekdCNlpaN0E5NU5yNXdXYmMxencveWFKUWxJbkUvVWpnMkFrYzdmTFU3T1V5ZFlOcm5sMTFHRnhWUTQrYlQwcStpdm9Pb3N0MXZzMGZWOWdreVVsSGU1bmNjMjJQa3BiamhsYmJXU2FsdWtCSlBSV2g5UGpSd1dyU2VVbjhMYm01dHN3bDBvVEliZFlwaTF2WEdPSkJEY0krTitrL2hzbDNESmhXZXZ0WklhQW0zRUhyNDQweEpMS2w3V0FqZ2poTmk4K0plRENSZzl0UjUxc1RWYjZXWk8xMVRVUUpZcW9VdDdDU1BDWmpaNU9qNEpobUhHSjZEcWFrTE9xUW1yUmR1anY0OHlCTFJoUzU4SjFWNGh1YU1zTmxHVWRka1IwWmhDdnJLUUVjcTdOVllvRWJDNjhxL2dOOUIzY05ibG9lZnNnSTZtQVhJeFdJZlZuM0hVcUlLa1FteS9mdkFoLzVmV3lmYlhSVlVvUGQ0ODJyOVRsb29BVU1tcDVOenZCVzBsYlJxampBbWhNcmlhVFh3a0hnaHc3UER6Q0t4eGxKcW52d0F4S2FLZWxmajBUNERPcXQrMGpDb2FNRzc0MStZMTFaUGQzcW5oVGtBZmpaS3VmWlpiT2dLeFJ4cFpOMGZhZ2wzc2FVRUtIL3l3cWZTOGd2MnNsMjJ3WFMySFRwRHlSS2d1MVRqaXZOQk9tTlpKdzA2alAxZXlmK0xwM2Mwa3RET2lweVJFd1BOSUZZdW9YWFJtSW92UUlneE1JVmJtVlBmamRoRXpyNVlUN1pzSzZGclIrOG44czRVMWh1aitHT09NKzhzU01CcHUrSW5qeURGS2ZIcDBsRkJCdmJPY0JaaVB0bno4THE5SFZOSHdtVW1mVEhxZWM1azRRbmZiZEhYMitOS1ptZWI2ZFhMcDgzMnpXaTcwTTYwSXlkeEI1NmptdDk2RTIrdHdkZGt0bTVUMUhNREhOOWJXQnMvZz09&trace_id=04de74baf628e8b053675ebfebb67bf0/15512843014223128983
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co/jwkn5By/psm-makassar-vs-persebaya.jpg" group-title="LIVE EVENT", PSM MAKASSAR VS PERSEBAYA
 https://media.publit.io/file/comingsoon.mp4
