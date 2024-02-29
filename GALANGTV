@@ -1,8 +1,12 @@
 #EXTINF: -1 tvg-logo="https://i.ibb.co/SQ2VFSX/20230811-040121.png" group-title="PERINGATAN", GALANG RAMADHAN.
 https://media.publit.io/file/Tak-berjudul-2-480p-1.mp4
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=49f38879a0167c24244a69c09a04a37a:87bf79618072fa4deee15df4885d2a07
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF: -1 tvg-logo="https://i.ibb.co/DLNJZ5h/bali-vs-persis.jpg" group-title="LIVE EVENT", BALI UNITED VS PERSIS SOLO
-https://media.publit.io/file/comingsoon.mp4
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/14024_stream.mpd?hdnts=exp=1709221652~acl=/drm/dash/*~id=151186759~hmac=c06653071e53689b00aa6bbd160c7561e01440b66aced990172c77f764b552e5
+
 
 
 
