@@ -1,9 +1,11 @@
 #EXTINF: -1 tvg-logo="https://i.ibb.co/SQ2VFSX/20230811-040121.png" group-title="PERINGATAN", GALANG RAMADHAN.
 https://media.publit.io/file/Tak-berjudul-2-480p-1.mp4
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1cd196355f40cb90ba53f158c1f91ff1:3e11d3107766f5a8163069e525272c1d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF: -1 tvg-logo="https://i.ibb.co/B3VJ3xY/persikabo-vs-arema.jpg" group-title="LIVE EVENT", 1.PERSIKABO VS AREMA FC
-https://media.publit.io/file/comingsoon.mp4
-
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/13559_stream.mpd?hdnts=exp=1709292966~acl=/drm/dash/*~id=151186759~hmac=bb6133d67555ff2abc0369a403ec752abf1edbaa9939f8ed876b4a24f0d51db0
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co/jRD586n/bhayangkara-vs-madura.jpg" group-title="LIVE EVENT", 2.BHAYANGKARA VS MADURA
 https://media.publit.io/file/comingsoon.mp4
