@@ -1,15 +1,13 @@
 #EXTINF: -1 tvg-logo="https://i.ibb.co/SQ2VFSX/20230811-040121.png" group-title="PERINGATAN", GALANG RAMADHAN.
 https://media.publit.io/file/Tak-berjudul-2-480p-1.mp4
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1cd196355f40cb90ba53f158c1f91ff1:3e11d3107766f5a8163069e525272c1d
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF: -1 tvg-logo="https://i.ibb.co/B3VJ3xY/persikabo-vs-arema.jpg" group-title="LIVE EVENT", 1.PERSIKABO VS AREMA FC
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/13559_stream.mpd?hdnts=exp=1709292966~acl=/drm/dash/*~id=151186759~hmac=bb6133d67555ff2abc0369a403ec752abf1edbaa9939f8ed876b4a24f0d51db0
+#EXTINF: -1 tvg-logo="https://i.ibb.co/bBjfZ7W/persita-vs-borneo.jpg" group-title="LIVE EVENT", 1.PERSITA VS BORNEO
+https://media.publit.io/file/comingsoon.mp4
 
-#EXTINF: -1 tvg-logo="https://i.ibb.co/jRD586n/bhayangkara-vs-madura.jpg" group-title="LIVE EVENT", 2.BHAYANGKARA VS MADURA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://etslive-2-vidio-com.akamaized.net/live/205/master.m3u8?auth=Q2ZJVFo5akNEK1FrT0graHJBZkprcitiR2ZRWStZbE9sQVU4TDFUNlVrNEgxS00vTDVJekdCNlpaN0E5NU5yNXdXYmMxencveWFKUWxJbkUvVWpnMkFrYzdmTFU3T1V5ZFlOcm5sMTFHRnhWUTQrYlQwcStpdm9Pb3N0MXZzMGZWOWdreVVsSGU1bmNjMjJQa3BiamhsYmJXU2FsdWtCSlBSV2g5UGpSd1dyU2VVbjhMYm01dHN3bDBvVEliZFlwaTF2WEdPSkJEY0krTitrL2hzbDNESmhXZXZ0WklhQW0zRUhyNDQweEpMS2w3V0FqZ2poTmk4K0plRENSZzl0UjUxc1RWYjZXWk8xMVRVUUpZcW9VdDlESkdraC9mbCsxbHBZN21RUXhpYlhsWm4xVmwrdkRROGdQdFZ4eGF5MWJQSDY1ZWQzVjJNVVFpSEhHenFsbzhyRVNNS1d2Zm4xd0d3RFlrVzF5azNzNE9sd0NNMUdwNjdrcUxzN0c4d0plRmVNTGtxMnNWZWZtM2lSdUdaNy9oWm54K0RhbGVCZFYvQnlXdlhTTTNyeFFZd1RCZmRBbVhJbVlGa3J5c040akdVN09vK3hKQ2tiUGRBRUkzWGZWcjlmM3hLMGpTK1N3OExXVUNhTWlkcHp3TlFrZjhFb2w1Y2lYMFY3cy9iRndFTjhjYlNBQmVXYmZJYVZSaVV0dVM3eTFjRVRYT3JFUGJSM09Wdkk4SHdqTDRIQ1RBKzZGVFVUejVFY0NwWnFkS2Y4dzJlRzBjTStlU203bm1EYUwxZmVqa2paVFRSc2wyMXZiTEtKSG9ONERFZCsxOFhXU05EVzZkVUwwaGI3VXNXbkJoVTRmeTJMQlg3MHY3ckhpbk03Q0pxM0J6cDdyTXZiblhteThwR2lSRnlyQUtZbXRlN0wzWEJmUjg4WmlRY2pyamhjb2l2VDlpQisvcDNYaDNmRWxvcnl5TnUxZGhGK1dPUHl2L0J2MzAvUlRFZWlSMG4zUFRBazhrT2lSODg2WWh0KzlLblpiM0V0NllPTnZkZz09&trace_id=b8ffc086b3b28c5545e4c06c6cfad0a8/14831116743977366981
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co/LxBsPDH/persija-vs-dewa.jpg" group-title="LIVE EVENT", 2.PERSIJA VS DEWA UNITED
+https://media.publit.io/file/comingsoon.mp4
+
 
 
 
