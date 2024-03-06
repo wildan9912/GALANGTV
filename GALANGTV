@@ -1,23 +1,12 @@
 #EXTINF: -1 tvg-logo="https://i.ibb.co/SQ2VFSX/20230811-040121.png" group-title="PERINGATAN", GALANG RAMADHAN.
 https://media.publit.io/file/Tak-berjudul-2-480p-1.mp4
 
-#EXTINF: -1 tvg-logo="https://i.ibb.co/M76m5HM/persebaya-vs-pss.jpg" group-title="LIVE EVENT", 1.PERSEBAYA VS PSS
-https://media.publit.io/file/y2mate.com-Terima-Kasih-Sudah-Menonton-Outro-27-video-penutup-no-copyright-720p.mp4
+#EXTINF: -1 tvg-logo="https://i.ibb.co/X314tmr/madura-vs-persita.jpg" group-title="LIVE EVENT", 1.MADURA VS PERSITA
+https://media.publit.io/file/comingsoon.mp4
 
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cd0636aead427d4d394246e86f757057:c74e320d496c4f9127a3d4287c982207
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF: -1 tvg-logo="https://i.ibb.co/Jj0TLCT/rans-vs-persib.jpg" group-title="LIVE EVENT", 2.RANS VS PERSIB
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/13558_stream.mpd?hdnts=exp=1709481815~acl=/drm/dash/*~id=151186759~hmac=8a98eceaa6bb85fc4d3b001bd421049fddbd7ff993e2737577645d2ed5f0a82b
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF: -1 tvg-logo="https://i.ibb.co/Zx607Gv/psis-vs-persik.jpg" group-title="LIVE EVENT", 3.PSIS VS PERSIK
-https://etslive-2-vidio-com.akamaized.net/live/13561/master.m3u8?auth=Q2ZJVFo5akNEK1FrT0graHJBZkprcitiR2ZRWStZbE9sQVU4TDFUNlVrNEgxS00vTDVJekdCNlpaN0E5NU5yNXNmWmNyOGlyNlB0NlNmWWxIc3Nadmh0QmRlL21XakxmTk5KSnFwMEcycytlTFREeUY4bG5yZlVPeFZmbUoxd3JOcEErUXBNSGhvRGk1R2JreFNCcEh0Z21xQ2lsS2drT0JubjNoSzlsek4yUzZ4SUNPdEFwNDdGMFFrTFRycktWdWxldkViRWhJU2YvTWNOMkEvV2dBMFk2Y25zUURJWXVNMWZ5SEYybDJpWEFVNVI4NHRTbFlDSmI1eXh2NzhhaXVvQTA5VUNXUHBUcDdKc3EzSjErUmk2WW1Ea2orSXB4UVZqQWs0dFVic2Z1VnpvZmgvTWx3aXJNUWZDRXhuTTFFVnN2TTZBbm5OTDVSTEpSa0NqMkVYQ0JJblY2RDZkTThORytKYjAwVlVQM2NOTjlOaWVHV1JkV3g1eWE1N0F5OUdpcWtySE1LeDFZaXV1QWhJOGxMWlpvN1dwUXpNTStrbE5JZHZScmlFYkZzcStKZGQ4NVlUUlFwbjZMTGJHSkVvRHJuUVN1THZuQWxWQnJidWtYQ1Q2Z25RV1N2Qm1UUnhSbTBIVy84VzRWNWlQVDA2TXl6ZXVINTJHa3JhbGlFcEhwUzhFTnZUOGVrOXpSYTc2U2VBOVVxb2tsdGoycW9DS3phWlNyMlRKd0Y1R0FCMmlhQlpTYW5abjJnQ3JPMmpucmFIRmFvUDB2SkxCTzVxYlF3SkN5NTNEVm9JZ0ViRVFFKzRWUFJTNWxkSTRtUjBTQm1taG1wVnEzL2R3RVpTSThwYjlxYjlqSG1obGw4SW1FVkhYcUxyam52MzBRRVhmbkpkYUpxWlpqa3B2NzRFNmhBVy9adlB2ZUVtQ2YxOUp1U1JjK3MzejhIdC9HNklhbGpab0JFL1JCK0hCVFo3MTI3T2NlL2xCY0J5d1h2aFhCanVtNUxiN0p0eVh5TFFMNzY5QXB3NVp2b0h4MVRzTDVKUE1jVS9YUUlzYlhJN2RLcERHR28xTT0=&trace_id=332cb7245828a65ecd6886198a4d9dd1/4571344957229991183
-
-
-
-
+#EXTINF: -1 tvg-logo="https://i.ibb.co/VqwB05W/arema-vs-bhayangkara.jpg" group-title="LIVE EVENT", 2.AREMA FC VS BHAYANGKARA
+https://media.publit.io/file/comingsoon.mp4
 
 
 
