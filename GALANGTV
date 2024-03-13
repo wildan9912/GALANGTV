@@ -8,10 +8,11 @@ https://media.publit.io/file/Tak-berjudul-2-480p-1.mp4
 https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/15680_stream.mpd?hdnts=exp=1710350118~acl=/drm/dash/*~id=151186759~hmac=a52ba448af73856c2eb5c970b27e2651af6bea520d39874cd328d750192391aa
  
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c105c8c8e20d6f55ff3f8d5f28c99e0c:d153f2670e161505919a7f447befc1cb
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF: -1 tvg-logo="https://i.ibb.co/WKRJs5C/persita-vs-arema.jpg" group-title="LIVE EVENT", 2.PERSITA VS AREMA FC
-https://media.publit.io/file/comingsoon.mp4
-
-
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/15216_stream.mpd?hdnts=exp=1710350834~acl=/drm/dash/*~id=151029388~hmac=1f9cfe29d051174e59e95d2558547caf92baa0b38b68805a590305684eef907e
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
