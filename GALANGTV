@@ -1,8 +1,13 @@
 #EXTINF: -1 tvg-logo="https://i.ibb.co/SQ2VFSX/20230811-040121.png" group-title="PERINGATAN", GALANG RAMADHAN.
 https://media.publit.io/file/Tak-berjudul-2-480p-1.mp4
 
-#EXTINF: -1 tvg-https://i.ibb.co/fHndrrg/pss-sleman-vs-borneo.jpg="logo" group-title="LIVE EVENT", PSS SLEMAN VS BORNEO FC
+#EXTINF: -1 tvg-logo="https://i.ibb.co/C0k31N0/barito-vs-psm-makassar.jpg" group-title="LIVE EVENT", 1.BARITO VS PSM MAKASSAR
 https://media.publit.io/file/comingsoon.mp4
+
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co/5RncPj1/persikabo-vs-persib.jpg" group-title="LIVE EVENT", 2.PERSIKABO VS PERSIB
+https://media.publit.io/file/comingsoon.mp4
+
 
 
 
