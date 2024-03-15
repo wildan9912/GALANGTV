@@ -1,8 +1,11 @@
 #EXTINF: -1 tvg-logo="https://i.ibb.co/SQ2VFSX/20230811-040121.png" group-title="PERINGATAN", GALANG RAMADHAN.
 https://media.publit.io/file/Tak-berjudul-2-480p-1.mp4
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=059bc6335a6f4541a7b7eb3b662cfb3c:22d015be4052088b7ad0f73718f9e2d2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF: -1 tvg-logo="https://i.ibb.co/C0k31N0/barito-vs-psm-makassar.jpg" group-title="LIVE EVENT", 1.BARITO VS PSM MAKASSAR
-https://media.publit.io/file/comingsoon.mp4
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/14898_stream.mpd?hdnts=exp=1710523604~acl=/drm/dash/*~id=151029388~hmac=fc37aeebc1a092515fb167457f1d37fa26ac0ea090adc47970a937b126b3e2ca
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
