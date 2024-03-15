@@ -5,10 +5,10 @@ https://media.publit.io/file/Tak-berjudul-2-480p-1.mp4
 https://media.publit.io/file/comingsoon.mp4
 
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0df06ce565b4e9d30f1df994b6d647ea:a618ed42aaf8b77443f2eaca0ccf69ac
 #EXTINF: -1 tvg-logo="https://i.ibb.co/5RncPj1/persikabo-vs-persib.jpg" group-title="LIVE EVENT", 2.PERSIKABO VS PERSIB
-https://media.publit.io/file/comingsoon.mp4
-
-
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/13560_stream.mpd?hdnts=exp=1710522911~acl=/drm/dash/*~id=151029388~hmac=060d158ee39b26909d9cac43b5f3b4256eb26b8ce173fd3d45e44a4ff51b3c44
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
