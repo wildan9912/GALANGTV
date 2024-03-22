@@ -1,14 +1,6 @@
 #EXTINF: -1 tvg-logo="https://i.ibb.co/SQ2VFSX/20230811-040121.png" group-title="PERINGATAN", GALANG RAMADHAN.
 https://media.publit.io/file/Tak-berjudul-2-480p-1.mp4
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ff9e5fa8162883cf6d3095ea91f9b284:e9237daae16919ca840459396c6fc465
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF: -1 tvg-logo="https://i.ibb.co/3MwZ4xL/indonesia-vs-china.jpg" group-title="LIVE EVENT", INDONESIA VS CHINA 
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/16961_stream.mpd?hdnts=exp=1711127647~acl=/drm/dash/*~id=151029388~hmac=d03b03c60a19303656e460a1428c2b9545363bfee3d57060506e5928d1528bf6
-
-
-
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3fd52d1e9ba4b180aec12c9295b62c0f:bb274e33da0c709e62c55d0cba911889
