@@ -1,17 +1,11 @@
 #EXTINF: -1 tvg-logo="https://i.ibb.co/SQ2VFSX/20230811-040121.png" group-title="PERINGATAN", GALANG RAMADHAN.
 https://media.publit.io/file/Tak-berjudul-2-480p-1.mp4
 
-#EXTINF: -1 tvg-logo="https://i.ibb.co/bBjfZ7W/persita-vs-borneo.jpg" group-title="LIVE EVENT", 1.PERSITA VS BORNEO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://etslive-2-vidio-com.akamaized.net/live/205/master.m3u8?auth=Q2ZJVFo5akNEK1FrT0graHJBZkprcitiR2ZRWStZbE9sQVU4TDFUNlVrNEgxS00vTDVJekdCNlpaN0E5NU5yNXdXYmMxencveWFKUWxJbkUvVWpnMkFrYzdmTFU3T1V5ZFlOcm5sMTFHRnhWUTQrYlQwcStpdm9Pb3N0MXZzMGZWOWdreVVsSGU1bmNjMjJQa3BiamhsYmJXU2FsdWtCSlBSV2g5UGpSd1dyU2VVbjhMYm01dHN3bDBvVEliZFlwaTF2WEdPSkJEY0krTitrL2hzbDNESmhXZXZ0WklhQW0zRUhyNDQweEpMS2w3V0FqZ2poTmk4K0plRENSZzl0UjUxc1RWYjZXWk8xMVRVUUpZcW9VdDVVcmFVek9KYUZqT1FjbVYrcm1FZDRZSm51a3NJZDFiNUZWWjBxaHl6NDRibGVxMk9ybG4zeGJVRHNHYzNHbjJmUWNBRVY4UWYrdlJ2RVA4SkxEZGFnWjdWK2FNUVdxRHFHWGwvWG9iK1FsWmE3L1c3WXF2MTB3Rjh1YTVqcGlWTVZoOTJmVFVCK0JxTDhDZ3ZvRkdqcElzT3BiSFBJcUFTQ3pHVnRXVHVTUlZyN2NtOFNlc2YwUHl3TUtEaXVic3doOEZLTWxmQmd4QzBGNnZGVlh6WkcxZDgzNHUvcGYrUUs4VGF5YjBtdXJxQ2NOTlFUekJTQktpb1IveUVVSTIvRXpmOHlZQmtsVEkySEdEQjNabTZyMUNUYXNMTmhqaHNiTnN2U1BsdSs5UjhrcUlHV1pjSHhhQ2pTWmRwZGxBN2x3Z2E5RkJIYkRpNW45YWw0bTA1WjdqcDVkNmZSNVMvR3EwNDJCQ0RjbTVMQzRKb1dUaTVDYVFrMXpmRTU2SUFLNVc0QmtkV1pseENxRCt1Qi9idDRNa2lQSDFOalFiRUNWOFdGTXQySHRtSDR0NmdYdlBUWWt4d3BiMEw2RWNPWEd6Vnp1UThhbkFwS0FBNkxhUHB2UExnR1B2bVloTTRqKzlyYndXWUNoaE9oZG0zMmVtSTh0ZDdXY05RKzI2UT09&trace_id=693bd30d1a34508ddad97d5a0af1b059/12586262753024056693
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0df06ce565b4e9d30f1df994b6d647ea:a618ed42aaf8b77443f2eaca0ccf69ac
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF: -1 tvg-logo="https://i.ibb.co/LxBsPDH/persija-vs-dewa.jpg" group-title="LIVE EVENT", 2.PERSIJA VS DEWA UNITED
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/13560_stream.mpd?hdnts=exp=1709393962~acl=/drm/dash/*~id=151186759~hmac=947114190f5ac0f6a9a1292aa9ce33cecca4608d599e95f6ca3b11239d507fd7
-
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF: -1 tvg-logo="logo" group-title="LIVE EVENT", tes
+https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
 
 
