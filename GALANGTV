@@ -9,8 +9,9 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=50053fb452c6b15716f8eb9b0e524278:c2608ef05318c7d7ea9b3694798cb15f
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF: -1 tvg-logo="LOGO" group-title="LIVE EVENT", 22
+#EXTINF: -1 tvg-logo="LOGO" group-title="LIVE EVENT", 29
 https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17139_stream.mpd?hdnts=exp=1713141201~acl=/drm/dash/*~id=151029388~hmac=746a659fb61cf848da203d80725eae55b96aab487e2088b68756ba65f1bf2c69
 
 
