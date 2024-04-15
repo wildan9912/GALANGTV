@@ -4,19 +4,9 @@ https://media.publit.io/file/Tak-berjudul-2-480p-1.mp4
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF: -1 tvg-logo="logo" group-title="LIVE EVENT", tes
+#EXTINF: -1 tvg-logo="logo" group-title="LIVE EVENT", TIMNAS INDONESIA
 https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7af7c0ac3c77478be9712bfc0f0d28b4:845b9d91cefb70530380e8749d8dc201
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF: -1 tvg-logo="LOGO" group-title="LIVE EVENT", 29
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/14898_stream.mpd?hdnts=exp=1713186380~acl=/drm/dash/*~id=151029388~hmac=abc19fab9a2d0a5fd7a93008f809df5b6065bec73cff236d5f25fe396f7e7d61
-
-#EXTINF: -1 tvg-logo="logo" group-title="LIVE EVENT", arema
-#EXTVLCOPT:http-referrer=https://morgan.stoveroadp7.shop/id/football/indonesian-liga-1-3760818/pss-sleman-vs-arema-fc.html?icg=SUQ%3D
-https://fhlsport3.1mv.xyz/by07scpx/s2001/v3b/1rsp957qnUE0pQbiY3EmAmphZ3umqT0ho25y/super/3x_567580.m3u8
 
 
 
