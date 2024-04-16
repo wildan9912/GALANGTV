@@ -7,8 +7,12 @@ https://media.publit.io/file/Tak-berjudul-2-480p-1.mp4
 #EXTINF: -1 tvg-logo="logo" group-title="LIVE EVENT", TIMNAS INDONESIA
 https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
-
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ab324b46359cf0642499121f962490d:283363915fab91aa2200170e92dd099d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer= https://www.vidio.com
+#EXTINF: -1 tvg-logo="LOGO" group-title="LIVE EVENT", bonek
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/13558_stream.mpd?hdnts=exp=1713270078~acl=/drm/dash/*~id=151029388~hmac=78ea21eb27087898f9b405907c101eaa842cae57f1bc9d45d93bf99c9911604d
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
