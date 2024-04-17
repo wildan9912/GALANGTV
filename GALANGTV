@@ -8,11 +8,11 @@ https://media.publit.io/file/Tak-berjudul-2-480p-1.mp4
 https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eff75887476a846609de3e9ed34b7c5e:3fb0c1f4f086a4c1143a3061567107ae
+#KODIPROP:inputstream.adaptive.license_key=8175df60b24b7fbbfd42a248b90d23f3:8ece715c2c2f2b89beb161ccaae5d888
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer= https://www.vidio.com
-#EXTINF: -1 tvg-logo="LOGO" group-title="LIVE EVENT", PERSIJA
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/13560_stream.mpd?hdnts=exp=1713356033~acl=/drm/dash/*~id=155601976~hmac=a4f2ddb161cd8ea02a604ba18141e3fc9ea93ed5578d0945b3ec1acda48f8f01
+#EXTINF: -1 tvg-logo="LOGO" group-title="LIVE EVENT", madrid
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/14453_stream.mpd?hdnts=exp=1713379158~acl=/drm/dash/*~id=151186759~hmac=b80189fdd102d2404f8d43e96a3cfeedab9e6b1f1ebe65bd2b21899d0318bb09
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3fd52d1e9ba4b180aec12c9295b62c0f:bb274e33da0c709e62c55d0cba911889
