@@ -1,15 +1,13 @@
 #EXTINF: -1 tvg-logo="https://i.ibb.co/SQ2VFSX/20230811-040121.png" group-title="PERINGATAN", GALANG RAMADHAN.
 https://media.publit.io/file/Tak-berjudul-2-480p-1.mp4
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8da947b6c9388369dca06010db64472d:2bc240f34db84d4341ec446dba07efea
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF: -1 tvg-logo="https://thumbor.prod.vidiocdn.com/H2WiKO8mBCIX1YIbc852ZPxY-T8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3389356/420dc7.jpg" group-title="LIVE EVENT", 
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/13559_stream.mpd?hdnts=exp=1713600599~acl=/drm/dash/*~id=155601976~hmac=b99e5112c90a4be899496456d6a8d3e3b7f06f2fea28b0cc894e32b30ccf466f
+#EXTINF: -1 tvg-logo="logo" group-title="LIVE EVENT", pss sleman
+#EXTVLCOPT:http-referrer=https://elsb.somehowrockyng.shop/id/football/indonesian-liga-1-3760830/pss-sleman-vs-dewa-united-fc.html
+https://fhlsport5.1mv.xyz/by07scpx/s2001/v3b/ro59488qnUE0pQbiY3EmAmphZ3umqT0ho25y/super/3x_567760.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF: -1 tvg-logo="https://thumbor.prod.vidiocdn.com/tbKdUBAK8YBI4KR4nMBytHHQPeY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3389359/f613e1.jpg" group-title="LIVE EVENT", 
-https://etslive-2-vidio-com.akamaized.net/live/13797/master.m3u8?auth=Q2ZJVFo5akNEK1FrT0graHJBZkprcitiR2ZRWStZbE9sQVU4TDFUNlVrNEgxS00vTDVJekdCNlpaN0E5NU5yNXQxWHhpSC81Y3JZdFgySVZ3bDNLQlFPcDBka3B6WEtPNDIwamtqbTRHdWU0WXNaRzRpQks0SXlpQzk3WnZicFBYTTFwTWhLdGhCbExhY3g2VEdDRkk0YUZSbHF6aXpSOHJGN0doNSt6OVJUVEErQlR0Si9wU3JUUFo5dlhCb0VVRUZLU3l5VlZ2WnhRMDRuTzI0QjN0QUt5UkNkN1g2UXAvbVBoYUhXNCt3VlhaV1BLWS9uZjgwNjc5UTJoNEpGVUI3dUFtMGltemZOdzE4UTd6YTEySGtPR0F0NWFSWWJ2NlpMSGdFSHRrZUtvZ2txS3pHMHF0ZXZVaDM2a2lodVJPVjdMRG1xYUdiK3lyMjZucG5uc3JNYVlzR0RLRVFoWm5wOXNLOHFDb3hvTmhvTDlVMkd4blNxN254WU1wSFc3N1FWd09CZWw1aERTOVduMk4xYjFGRHovZ0lwamkrRHpWZHd6K3A3dG1FYkV4MWh3dXg1cEp1OStIUlR3MDUwbXVBWGt6QlpEMnN6RzhjMmk2c2s0MS9YcWdhRGtZYmFxVUtoZU1rajZpaEhUOXpiZmo2dVNsd21xSWQyREpwNmZlaEswWDlNRVVQSkhzb0N2cGJjbno4clFRci8wWGZRNloraVhxanpZVEZ2Rkhvc2c4TGJOckN2eUxHV2R2TWE2enpKT01zTnFuLzNYVVN2OHhDZTNSRXNFRzBOZktKTnhhSDUvV003OVRhNFd1ZTZ6Y0VXUmxrMVB3NEhicEIvdnFBeTIyamY5eVk3MjlzaVdXVWpFa3BPL3ZYWXR5ZGRDVVFsVldiQ0F0ZVRJZ3JxOFNYZGY1U3ZINVRtbmVvaXVWaGVuay9TZU1ORnIrZGdHZ3Q2TUhFTHJlWWgxTlZ6bEFwWGNQRGNlZ21YZ1BYb3BzaWN4OXFDWnplUmM3L2ZaZEFObHZJWWZFUjcyOU1PdTRUWWtDNGR6WjNOa3JKZ0dubVIxbHFqOVUwOD0=&trace_id=6ebd1399060d80480252b3eec44ca28b/16277849735490216118
+#EXTINF: -1 tvg-logo="logo" group-title="LIVE EVENT", 
+#EXTVLCOPT:http-referrer=
+
 
 
 
