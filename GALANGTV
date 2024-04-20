@@ -1,18 +1,11 @@
 #EXTINF: -1 tvg-logo="https://i.ibb.co/SQ2VFSX/20230811-040121.png" group-title="PERINGATAN", GALANG RAMADHAN.
 https://media.publit.io/file/Tak-berjudul-2-480p-1.mp4
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF: -1 tvg-logo="logo" group-title="LIVE EVENT", TIMNAS INDONESIA
-https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8175df60b24b7fbbfd42a248b90d23f3:8ece715c2c2f2b89beb161ccaae5d888
+#KODIPROP:inputstream.adaptive.license_key=8da947b6c9388369dca06010db64472d:2bc240f34db84d4341ec446dba07efea
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer= https://www.vidio.com
-#EXTINF: -1 tvg-logo="LOGO" group-title="LIVE EVENT", madrid
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/14453_stream.mpd?hdnts=exp=1713379158~acl=/drm/dash/*~id=151186759~hmac=b80189fdd102d2404f8d43e96a3cfeedab9e6b1f1ebe65bd2b21899d0318bb09
+#EXTINF: -1 tvg-logo="https://thumbor.prod.vidiocdn.com/H2WiKO8mBCIX1YIbc852ZPxY-T8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3389356/420dc7.jpg" group-title="LIVE EVENT", 
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/13559_stream.mpd?hdnts=exp=1713599105~acl=/drm/dash/*~id=150972853~hmac=3dd27dc0049ba10cac066d8e94addc006238514c360ae612878ab3aad41077fd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3fd52d1e9ba4b180aec12c9295b62c0f:bb274e33da0c709e62c55d0cba911889
