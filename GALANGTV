@@ -5,7 +5,7 @@ https://media.publit.io/file/Tak-berjudul-2-480p-1.mp4
 #KODIPROP:inputstream.adaptive.license_key=8da947b6c9388369dca06010db64472d:2bc240f34db84d4341ec446dba07efea
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF: -1 tvg-logo="https://thumbor.prod.vidiocdn.com/H2WiKO8mBCIX1YIbc852ZPxY-T8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3389356/420dc7.jpg" group-title="LIVE EVENT", 
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/13559_stream.mpd?hdnts=exp=1713599105~acl=/drm/dash/*~id=150972853~hmac=3dd27dc0049ba10cac066d8e94addc006238514c360ae612878ab3aad41077fd
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/13559_stream.mpd?hdnts=exp=1713600599~acl=/drm/dash/*~id=155601976~hmac=b99e5112c90a4be899496456d6a8d3e3b7f06f2fea28b0cc894e32b30ccf466f
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF: -1 tvg-logo="https://thumbor.prod.vidiocdn.com/tbKdUBAK8YBI4KR4nMBytHHQPeY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3389359/f613e1.jpg" group-title="LIVE EVENT", 
