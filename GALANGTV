@@ -4,7 +4,7 @@ https://media.publit.io/file/Tak-berjudul-2-480p-1.mp4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d158d1e56a5fd04e1365cb5d72317b45:d98e4f94d327aea0fd43e4a58dadfe3d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF: -1 tvg-logo="LOGO" group-title="LIVE EVENT", 
+#EXTINF: -1 tvg-logo="LOGO" group-title="LIVE EVENT", arema
 https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/15216_stream.mpd?hdnts=exp=1713701236~acl=/drm/dash/*~id=155601976~hmac=b95ebc3ee51d8d164328e3f747077500d702f2e9490a8dfc09f12ad3f89c03fe
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
