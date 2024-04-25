@@ -1,8 +1,12 @@
 #EXTINF: -1 tvg-logo="https://i.ibb.co/SQ2VFSX/20230811-040121.png" group-title="PERINGATAN", GALANG RAMADHAN.
 https://media.publit.io/file/Tak-berjudul-2-480p-1.mp4
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b81b1942c65f35547ced1bff074206a5:a07dc4d86f51db7195f4b7e2abe9d9e8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTINF: -1 tvg-logo="https://i.ibb.co/4ds1GwD/qatar-vs-jepang.jpg" group-title="LIVE EVENT", 1.QATAR U23 VS JEPANG U23
-https://media.publit.io/file/comingsoon.mp4
+https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co/MhNwLj1/korea-vs-indonesia.jpg" group-title="LIVE EVENT", 2.KOREA U23 VS INDONESIA U23
 https://media.publit.io/file/comingsoon.mp4
