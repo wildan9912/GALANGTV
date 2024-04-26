@@ -13,7 +13,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-H
 #EXTINF: -1 tvg-logo="https://i.ibb.co/vvFxkwf/rans-vs-persija.jpg" group-title="LIVE EVENT", 2.RANS VS PERSIJA
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTINF: -1 tvg-logo="https://i.ibb.co/PCSjTZm/20240426-195917.jpg" group-title="LIVE EVENT", 3.UZBEKISTAN U23 VS ARAB U23
