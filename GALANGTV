@@ -1,24 +1,9 @@
 #EXTINF: -1 tvg-logo="https://i.ibb.co/SQ2VFSX/20230811-040121.png" group-title="PERINGATAN", GALANG RAMADHAN.
 https://media.publit.io/file/Tak-berjudul-2-480p-1.mp4
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fadd2720deff5925ab86df0819cd7775:f67ff08c7ebc779f6a6fcfc83835f65b
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF: -1 tvg-logo="https://i.ibb.co/XSxy92Q/psis-vs-persikabo.jpg" group-title="LIVE EVENT", 1.PSIS VS PERSIKABO
-https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fadd2720deff5925ab86df0819cd7775:f67ff08c7ebc779f6a6fcfc83835f65b
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF: -1 tvg-logo="https://i.ibb.co/vvFxkwf/rans-vs-persija.jpg" group-title="LIVE EVENT", 2.RANS VS PERSIJA
-https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF: -1 tvg-logo="https://i.ibb.co/PCSjTZm/20240426-195917.jpg" group-title="LIVE EVENT", 3.UZBEKISTAN U23 VS ARAB U23
-https://melon-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF: -1 tvg-logo="logo" group-title="LIVE EVENT", volly
+https://etslive-2-vidio-com.akamaized.net/live/17252/master.m3u8?auth=Q2ZJVFo5akNEK1FrT0graHJBZkprcitiR2ZRWStZbE9sQVU4TDFUNlVrNEgxS00vTDVJekdCNlpaN0E5NU5yNVJ0bjFWUkhEUjFoQ3hlNCthSCtVZVQ5NHE2ekVxWUFkOFhheitYdi85L01MSkhBS3FDWC9vazZwMkdUMDUzSW5odFd5by9WK3FlZW9jVGc0TGVkZkFlTVgvQ1ZhdURtNkZ3TkxHaHh5dlJPSFJvMThhNmNTTStYTTZ2bnJSdnlBTXRYVXNwejZpVWwwVE1kcExpQWQvMjlUY2VrNTBmMXdqb256RDZFQzRscFBiTlM5a25KbTlmc1JHaVJPS0szWXZoZjFacW9LaGVHU25SUTRMUENqc2RDTmF4S0QxSjgwUHdPQWZyK1d5ZnE0emExVlNYMFRDMEs3OXVPQnR4TWRvVmcyY0YxdUlwTTdzK2VQRDRYZEFBZUZRYld2M0pQdGgvSTNTSVNPZ0xQNU9vVlFBczRZTXZ2NTJOSkZWam5lT3N1c2JzTFhQdEFRZ0ZQNUdqTjdBVUFRZVdJT0U2aW9iTWpLTFRHTnJqRDhsMGJpZlhldjRJZ294RnFqUlZNSGFVSDB4VlpRWEF5Zm1JSWpVZ2pwdjIxMncxMzQ1bnBHU1VWWEk0R0ZGN3c2ZkliNGVVRE90NUQ1WDJ2NEhrZmphNzVoVEtia0JPWEo2ek8wb3o2SlB4d0JrT1B3VFRkMUN5Nm1pdlRnT1lEZjdwZWFnOXdBWDI4dU9QWUo0M2pEcXNuYjBNL2tPcjJvRWRaR0o5T203blV4YTlZekxMWVJ0RFp4VnI1VXowUHFvdnBYWEN1UU9KSHIvQjNuWk5LTk00cDVXWnFZTG5iNFk0b1JDRmJvZyt5TEFMRUZpd2xEYU5lZkplY3FoRmRRRW5TTDR6WDYreVhoSnplUzdRMGV1aDJ4MnN0WmptQzROY29ZeFpEeVNzNmhQTEhzam84eGZMZVVubkYyMHFPRjNjdU5JaUg5Sy9YeUFLS2psd01mME1qZ1RNbk5PK1RqQ05BcDY0OVZ0QmZyT2l4NkhRUHJqYjgyY0NubUxVVT0=&trace_id=7ecacc8bf0d2e6575ac3ddf773f2d0cd/14730489471082317586
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co/cC2sSc0/20231113-200301.jpg" group-title="PENGAJIAN", GUS IDHAM
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1704743550/ei/Hv6bZZiHHaqb3LUPhsKMoAE/ip/125.166.12.73/id/3PChGptk3IQ.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/spc/UWF9f8HRK9hMhf7i3LHlEq3NlpimXfLZDonbkADdeQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAJJdPpAiSqUBQFY27fjFuMguu256XpDAEPpvkkZ8iHfcAiACm1g4Z1eSjiwqCtivjwHHBBv80goaGW-Js9i27bpeqQ%3D%3D/file/index.m3u8
