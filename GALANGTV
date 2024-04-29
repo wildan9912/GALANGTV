@@ -7,8 +7,11 @@ https://media.publit.io/file/Tak-berjudul-2-480p-1.mp4
 #EXTINF: -1 tvg-logo="https://i.ibb.co/DQdF29X/indonesia-vs-uzbekistan.jpg" group-title="LIVE EVENT", 1.INDONESIA U23 VS UZBEKISTAN U23
 https://melon-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTINF: -1 tvg-logo="https://i.ibb.co/MsLHptj/jepang-vs-irak.jpg" group-title="LIVE EVENT", 2.JEPANG U23 VS IRAK U23
-https://media.publit.io/file/comingsoon.mp4
+https://melon-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
 
 
 
