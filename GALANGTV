@@ -1,8 +1,12 @@
 #EXTINF: -1 tvg-logo="https://i.ibb.co/SQ2VFSX/20230811-040121.png" group-title="PERINGATAN", GALANG RAMADHAN.
 https://media.publit.io/file/Tak-berjudul-2-480p-1.mp4
 
-#EXTINF: -1 tvg-logo="https://i.ibb.co/DQdF29X/indonesia-vs-uzbekistan.jpg" group-title="LIVE EVENT", INDONESIA VS UZBEKISTAN
+#EXTINF: -1 tvg-logo="https://i.ibb.co/DQdF29X/indonesia-vs-uzbekistan.jpg" group-title="LIVE EVENT", 1.INDONESIA U22 VS UZBEKISTAN U23
 https://media.publit.io/file/comingsoon.mp4
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co/MsLHptj/jepang-vs-irak.jpg" group-title="LIVE EVENT", 2.JEPANG U23 VS IRAK U23
+https://media.publit.io/file/comingsoon.mp4
+
 
 
 
