@@ -5,12 +5,11 @@ https://media.publit.io/file/Tak-berjudul-2-480p-1.mp4
 #EXTVLCOPT:http-referrer=https://rob51gg.nervousdoctor9bx.shop/id/football/spanish-la-liga-3778989/real-madrid-vs-cadiz.html
 https://fhlsport17.1mv.xyz/by07scpx/s2001/v3b/3967s4s5nUE0pQbiY3EmAmphZ3umqT0ho25y/super/3x_568479.m3u8
 
-#EXTINF: -1 tvg-logo="logo" group-title="LIVE EVENT", barca
-#EXTVLCOPT:http-referrer=https://rob51gg.nervousdoctor9bx.shop/id/football/spanish-la-liga-3778981/girona-vs-fc-barcelona.html
-https://fhlsport17.1mv.xyz/v3/get/s3/aHR0cHM6Ly8xMmEwMDFhOTBhOGM0NTkyN2Y3NzEwYTZlZTAyZThlNi52LnNtdGNkbnMubmV0/play1nm.hnyongshun.cn/live/sd-6wXrYd3qFDuuQDPm7k.m3u8
-
-
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c82188b4e66e0f52bbc4fdae8b457cfd:c497922f2cb789da59e68b135f235b5d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF: -1 tvg-logo="LOGO" group-title="LIVE EVENT", barca777
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/6317_stream.mpd?hdnts=exp=1714841030~acl=/drm/dash/*~id=150972853~hmac=ede04378d17e8f6b79025953f6d5b7113159541afaeef24c1a78676e569f7307
 
 
 
