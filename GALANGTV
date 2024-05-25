@@ -1,8 +1,11 @@
 #EXTINF: -1 tvg-logo="https://i.ibb.co/SQ2VFSX/20230811-040121.png" group-title="PERINGATAN", GALANG RAMADHAN.
 https://media.publit.io/file/Tak-berjudul-2-480p-1.mp4
 
-#EXTINF: -1 tvg-logo="https://149.102.147.238/wp-content/uploads/2023/11/hVYSsDvXPkTNE9WNOUQzbn2Imvj-152x228.jpg" group-title="LIVE EVENT", TIGER 3
-https://sv2.jwplayer21.com/vid/WWcvTDhWZkYyV0tVQUxsNDdCSlp4NjBsZ3QrQjN2ZkQ5eGREbDhrVUxvZXcwUVVHY0VrUU5uRlpzakFWL1kyR2R0T0ZCM0hlZ29zL1B6U3BhNkdoT2c9PQ,,/original/?dl=0&gt=ZmEvem1jTWdwZHl3K3ltSzVIQi9nSzhjS29Pem5yZVp0eGtCcm9xalIrcmxOYW1vSVBwVElpczdiTTdUbnQ3WWRkb1phaEV0RXRuaUFoQTlNanE2dFE9PQ,,
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eff75887476a846609de3e9ed34b7c5e:3fb0c1f4f086a4c1143a3061567107ae
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF: -1 tvg-logo="LOGO" group-title="LIVE EVENT", BALI
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/13560_stream.mpd?hdnts=exp=1716637845~acl=/drm/dash/*~id=150759493~hmac=66df4443abb0b73be0c5a6fb6807181c1c98a74a25d22dd98e4a737aad920b5d
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co/cC2sSc0/20231113-200301.jpg" group-title="PENGAJIAN", GUS IDHAM
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1714430547/ei/880vZsSGHNaFjuMP6pO6yAs/ip/125.166.1.208/id/1LumPd3rpBw.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51118563/txs/51118561%2C51118562%2C51118563%2C51118564%2C51118565%2C51118566%2C51118567/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/siu/1/spc/UWF9f6nWfjflW73rkjEaZfJ11JrpaVXjwV0qGkGf_x-maBo-Ci50f360VWO5IXJiKmIxQmM2-g/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgZYm1ukHtcoDzVnWqNff_YUqST4DOFgL9B2PrxnJoACACID5vqAIlR_Xz_JlxsPhr2bGP8YnwuLv6pnxRGs2iUKrl/file/index.m3u8
