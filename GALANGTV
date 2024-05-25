@@ -1,11 +1,9 @@
 #EXTINF: -1 tvg-logo="https://i.ibb.co/SQ2VFSX/20230811-040121.png" group-title="PERINGATAN", GALANG RAMADHAN.
 https://media.publit.io/file/Tak-berjudul-2-480p-1.mp4
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eff75887476a846609de3e9ed34b7c5e:3fb0c1f4f086a4c1143a3061567107ae
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF: -1 tvg-logo="LOGO" group-title="LIVE EVENT", BALI
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/13560_stream.mpd?hdnts=exp=1716637845~acl=/drm/dash/*~id=150759493~hmac=66df4443abb0b73be0c5a6fb6807181c1c98a74a25d22dd98e4a737aad920b5d
+#EXTINF: -1 tvg-logo="logo" group-title="LIVE EVENT", JUVENTUS
+#EXTVLCOPT:http-referrer=https://rob13gg.nervousdoctor9bx.shop/id/football/italian-serie-a-3785133/juventus-vs-monza.html?icg=SUQ
+https://fhlsport18.1mv.xyz/by07scpx/s2001/v3b/6on61316nUE0pQbiY3EmAmphZ3umqT0ho25y/super/3x_569365.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d887254c10f866f65427c4f651b71c7c:231a9d9b02041e9ed576afaffb6b8356
