@@ -4,12 +4,11 @@ https://media.publit.io/file/Tak-berjudul-2-480p-1.mp4
 #EXTINF: -1 tvg-logo="https://185.219.142.193/wp-content/uploads/2024/02/dLsAyZFzx37W1JUqd11JUl4KpZj-152x228.jpg" group-title="LIVE EVENT", ANCIKA 
 https://sv1.drivejwplayer.xyz/vid/OWVDckJRSFRzR0NnRlNNdkYrMTlRTjdZMWw4V2F2WVphcU5FN0x1SmdLWS9VQXk0Y0VHbWt2VTM0ZnJXMk5aRDBrRUxhbzRSangwaDl4VUNIS3NMQXc9PQ,,/original/?dl=0&gt=NlAwMFNDaEl3RWViMXRTTER3ZmttcmhxbStkTXdZdDY1WnVVYVlVdzZtYUU1K3QyeXR0MTEvRVZicE9DaExpeDloK1o1M3dYdmQ4akNNWlNrRDV6dFE9PQ,,
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f0fb9434474e13c7864985cf256a8bf6eda4727d
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF: -1 tvg-logo="LOGO" group-title="LIVE EVENT", bali
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/13559_stream.mpd?hdnts=exp=1717074046~acl=/drm/dash/*~id=150759493~hmac=3f4a5b5709aa54d4647bb5b1ecbdbe3e9e1c72ae278c1ae29d1037c5020b7e23
-
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/fkNY19c/images-2024-05-31-T174911-082.jpg" group-title="FINAL", MADURA VS PERSIB 
+https://liveaneviadev.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
 
 
 
