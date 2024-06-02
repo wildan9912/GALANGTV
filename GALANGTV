@@ -1,9 +1,11 @@
 #EXTINF: -1 tvg-logo="https://i.ibb.co/SQ2VFSX/20230811-040121.png" group-title="PERINGATAN", GALANG RAMADHAN.
 https://media.publit.io/file/Tak-berjudul-2-480p-1.mp4
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=97a2eab1196c4399306ff49619ad404f:1466c7f4c47eb3474077b6243411060e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/PGDjfyV/20240602-145717.jpg" group-title="LIVE EVENT", INDONESIA VS TAZHANIA
-https://media.publit.io/file/comingsoon.mp4
-
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17400_stream.mpd?hdnts=exp=1717317714~acl=/drm/dash/*~id=155601976~hmac=3a14f703cdd9d7105a2a8a736f17c0141e9a2977b1a352491e749b457b36f0dd
 
 
 
