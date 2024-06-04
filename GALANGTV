@@ -7,11 +7,10 @@ https://media.publit.io/file/Tak-berjudul-2-480p-1.mp4
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ef7dc2425b27b566346c79c6ce7183d7:747d6af8cf78f559d354b538cff9c3ec
+#KODIPROP:inputstream.adaptive.license_key=53efeb617a5f8eca34ec3e39c78c69a4:285426ddf3b68fe697d75b7f56585ced
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF: -1 tvg-logo="LOGO" group-title="LIVE EVENT", TESTING
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17418_stream.mpd?hdnts=exp=1717518680~acl=/drm/dash/*~id=155601976~hmac=435d39067668b158c953a43b9c7604f9db4442f6331bd3126b21420e830df7f1
-
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/pLC3tfK/indo-vs-ukraina.jpg" group-title="LIVE EVENT", cadangan
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17421_stream.mpd?hdnts=exp=1717515860~acl=/drm/dash/*~id=151186759~hmac=5c8cfdcdcc308db58450efe96a9f09adb8a205cf6684cd4bc69f506a78d227b0
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co/cC2sSc0/20231113-200301.jpg" group-title="PENGAJIAN", GUS IDHAM
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1714430547/ei/880vZsSGHNaFjuMP6pO6yAs/ip/125.166.1.208/id/1LumPd3rpBw.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51118563/txs/51118561%2C51118562%2C51118563%2C51118564%2C51118565%2C51118566%2C51118567/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/siu/1/spc/UWF9f6nWfjflW73rkjEaZfJ11JrpaVXjwV0qGkGf_x-maBo-Ci50f360VWO5IXJiKmIxQmM2-g/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgZYm1ukHtcoDzVnWqNff_YUqST4DOFgL9B2PrxnJoACACID5vqAIlR_Xz_JlxsPhr2bGP8YnwuLv6pnxRGs2iUKrl/file/index.m3u8
