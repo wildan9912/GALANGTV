@@ -4,7 +4,11 @@ https://media.publit.io/file/Tak-berjudul-2-480p-1.mp4
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/pLC3tfK/indo-vs-ukraina.jpg" group-title="LIVE EVENT", INDONESIA U20 VS UKRAINA U20
 https://media.publit.io/file/comingsoon.mp4
 
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ef7dc2425b27b566346c79c6ce7183d7:747d6af8cf78f559d354b538cff9c3ec
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF: -1 tvg-logo="LOGO" group-title="LIVE EVENT", TESTING
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17418_stream.mpd?hdnts=exp=1717518680~acl=/drm/dash/*~id=155601976~hmac=435d39067668b158c953a43b9c7604f9db4442f6331bd3126b21420e830df7f1
 
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co/cC2sSc0/20231113-200301.jpg" group-title="PENGAJIAN", GUS IDHAM
