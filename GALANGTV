@@ -1,4 +1,4 @@
-#EXTINF: -1 tvg-logo="https://i.ibb.co/SQ2VFSX/20230811-040121.png" group-title="PERINGATAN", GALANG RAMADHAN.1
+#EXTINF: -1 tvg-logo="https://i.ibb.co/SQ2VFSX/20230811-040121.png" group-title="PERINGATAN", GALANG RAMADHAN.12
 https://media.publit.io/file/Tak-berjudul-2-480p-1.mp4
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11,7 +11,7 @@ https://melon-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-H
 #KODIPROP:inputstream.adaptive.license_key=53efeb617a5f8eca34ec3e39c78c69a4:285426ddf3b68fe697d75b7f56585ced
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/CJZDV27/indo-u20-vs-panama-u23.jpg" group-title="LIVE EVENT", 2.INDONESIA U20 VS PANAMA U23
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17421_stream.mpd?hdnts=exp=1717691343~acl=/drm/dash/*~id=151029388~hmac=3075859f0efcb77d2599909f69577908fb41d3b1a685866e8646079a42c3359e
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17421_stream.mpd?hdnts=exp=1717691810~acl=/drm/dash/*~id=155601976~hmac=4cf8e879cc82a2255b6162bcc3ae47a97057405a252615bdd88a342255bd872e
 
 #EXTINF: -1 tvg-logo="logo" group-title="LIVE EVENT", MALAYSIA
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
