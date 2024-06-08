@@ -1,20 +1,11 @@
 #EXTINF: -1 tvg-logo="https://i.ibb.co/SQ2VFSX/20230811-040121.png" group-title="PERINGATAN", GALANG RAMADHAN.12
 https://media.publit.io/file/Tak-berjudul-2-480p-1.mp4
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF: -1 tvg-logo="https://i.ibb.co.com/ZxshVcH/imdonesia-vs-irak.jpg" group-title="LIVE EVENT", 1.INDONESIA VS IRAK
-https://melon-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=53efeb617a5f8eca34ec3e39c78c69a4:285426ddf3b68fe697d75b7f56585ced
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF: -1 tvg-logo="https://i.ibb.co.com/CJZDV27/indo-u20-vs-panama-u23.jpg" group-title="LIVE EVENT", 2.INDONESIA U20 VS PANAMA U23
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17421_stream.mpd?hdnts=exp=1717691810~acl=/drm/dash/*~id=155601976~hmac=4cf8e879cc82a2255b6162bcc3ae47a97057405a252615bdd88a342255bd872e
-
-#EXTINF: -1 tvg-logo="logo" group-title="LIVE EVENT", MALAYSIA
-https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
+#EXTINF: -1 tvg-logo="logo" group-title="LIVE EVENT", INDONESIA U20 VS JEPANG U23
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17421_stream.mpd?hdnts=exp=1717852820~acl=/drm/dash/*~id=151186759~hmac=6e9bdef7c270537be3dccdb69faa10b74440fc43ae6d82b3cc644d06bcb4be2d
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co/cC2sSc0/20231113-200301.jpg" group-title="PENGAJIAN", GUS IDHAM
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1714430547/ei/880vZsSGHNaFjuMP6pO6yAs/ip/125.166.1.208/id/1LumPd3rpBw.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51118563/txs/51118561%2C51118562%2C51118563%2C51118564%2C51118565%2C51118566%2C51118567/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/siu/1/spc/UWF9f6nWfjflW73rkjEaZfJ11JrpaVXjwV0qGkGf_x-maBo-Ci50f360VWO5IXJiKmIxQmM2-g/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgZYm1ukHtcoDzVnWqNff_YUqST4DOFgL9B2PrxnJoACACID5vqAIlR_Xz_JlxsPhr2bGP8YnwuLv6pnxRGs2iUKrl/file/index.m3u8
