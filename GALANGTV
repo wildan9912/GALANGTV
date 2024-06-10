@@ -245,3 +245,7 @@ https://sv2.jwplayer21.com/vid/WWk0c2haR3lhbU9uaTQ0SU0zcFdOZzZOSDRjUlllTlFvQWc3M
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF: -1 tvg-logo="logo" group-title="MOVIES", 
 https://token-media-vidio-com.vidiocdn.net/uploads/1530060/edge-cache-token=Expires=1718048482&KeyName=tokenized-media-vidio-com-keyset&Signature=Bf8ri54yRiNvP4Q3KFOYPP_z2dqlTlsMNdwQfaJcpgMawzFEvPnLW4_43nr-9I13fq5mGSlUoNhcbEQhbExFDQ==/ets-playlist-1600-e44b8.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF: -1 tvg-logo="logo" group-title="MOVIES", 
+https://token-media-vidio-com.vidiocdn.net/uploads/276358/edge-cache-token=Expires=1718052334&KeyName=tokenized-media-vidio-com-keyset&Signature=HK6EsDl3w5xHe3HoLsXUJ422ywDqtf2mI2GKSOGEFYSXX3FRlQln4GardHXJfbTqtLbPUw5KFHjNRBk5mph0DA==/playlist-1200-4e30d.m3u8
