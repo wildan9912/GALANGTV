@@ -1,11 +1,11 @@
 #EXTINF: -1 tvg-logo="https://i.ibb.co/SQ2VFSX/20230811-040121.png" group-title="PERINGATAN", GALANG RAMADHAN..
 https://media.publit.io/file/Tak-berjudul-2-480p-1.mp4
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjdiMDljNTItMmYzZC0zNDcyLTllYmItY2QxNDdiYzlhZWY0&
-#EXTINF: -1 tvg-logo="https://i.ibb.co.com/YyMHmks/jerman-vs-skotlandia.jpg" group-title="LIVE EVENT", JERMAN VS SCOTLANDIA
-#EXTVLCOPT:http-referrer=https://visionplus.id
-http://melon-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/ftKPCPx/hungary-vs-switzerland.jpg" group-title="LIVE EVENT", 1.HUNGARY VS SWITZERLAND
+https://media.publit.io/file/comingsoon.mp4
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/GVjWJz0/spain-vs-croatia.jpg" group-title="LIVE EVENT", 2.SPAIN VS CROATIA
+https://media.publit.io/file/comingsoon.mp4
 
 
 
