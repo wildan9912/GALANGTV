@@ -252,9 +252,11 @@ https://sv2.jwplayer21.com/vid/WWk0c2haR3lhbU9uaTQ0SU0zcFdOZzZOSDRjUlllTlFvQWc3M
 #EXTVLCOPT:http-referrer=https://layarxxi.life/
 https://jwplayer21.com/vid/ME9BMGxvZXFPSTh1aGRHNldpaXJYdnpGeXNBSG9neDAvdmZJcXZDdEdrT0cxbjNvRkVNd0NRVjlHM2c2RTdreEMxTTBNVnRvMlJJTzdUcGxWRG5FQ1E9PQ,,/original/?dl=0&gt=VGg2VzBVd1FZZVdpandmcWJTUnJGQmRlZVczampLVlFzZUpjTnQ1SHVleHV1cGgrblJKK1ZvQkh6S0lNdlh3R0RBdit3MHpxY05OeXdIamNUREYvbGc9PQ,,
 
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/19/Di_Bawah_Umur_%28film%29.jpeg" group-title="MOVIES", DIBAWAH UMUR
-#EXTVLCOPT:http-referrer=https://lk21.acop.edu.in/di-bawah-umur-2020/
-https://opg1ch.video-delivery.net/u5kjwti6oxdlsdgge5bayyi5ibga6m64yicbntnpnsmibzsixv2l4fc24ira/fd9oazsmft~Q4eDIVK5IA?token=278wtwwa1cf1h1e3niql50ae&expiry=1718263737841
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://layarxxi.life//Referer=https://layarxxi.life/
+#EXTINF:-1 type="movie" group-title=MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/19/Di_Bawah_Umur_%28film%29.jpeg",DI BAWAH UMUR
+https://sv3.drivejwplayer.xyz/vid/ZEE2MEk2Q01uRHM5a2p6Ym0zVzZhNTVsNGVrV0kyRWk0a0w1L3lBclJwTnE1dUliTVpnM25XMVl0TGY4ZWxUcitubVhYd3V6ZjFJNGoycmJxNm5xd0E9PQ,,/original/?dl=0&gt=Z1FaMElqS3M5UVdSc25iRDFDR1JKVkxhNEtYeXd0b3hOeitta1k5QXBpRTBILzFGUUNBTXNrR2FkMkFoZ2FtNVlsSWU0ZHRyYi95dE9ITFJYZi9qYVE9PQ,,
+#EXTVLCOPT:http-referrer=https://layarxxi.life/
+
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjM0NjA0ZTYtMTM1My00ODBlLWJkMWYtOTcxZmVhNDNhMmUyXkEyXkFqcGdeQXVyNzEzNjU1NDg@._V1_.jpg" group-title="MOVIES", MARIPOSA
