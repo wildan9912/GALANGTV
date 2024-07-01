@@ -3,7 +3,7 @@ https://media.publit.io/file/Tak-berjudul-2-480p-1.mp4
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjdiMDljNTItMmYzZC0zNDcyLTllYmItY2QxNDdiYzlhZWY0&
-#EXTINF: -1 tvg-logo="https://i.ibb.co.com/Jsvcmp8/turki-vs-georgia.jpg" group-title="LIVE EVENT", 1.TURKI VS GEORGIA
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/DtwYNw3/20240701-224439.jpg" group-title="LIVE EVENT", 1.PORTUGAL VS SLOVENIA
 #EXTVLCOPT:http-referrer=https://visionplus.id
 http://melon-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
