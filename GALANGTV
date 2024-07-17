@@ -481,5 +481,10 @@ https://sv2.jwplayer21.com/vid/ci83ZHlUUzI2YTNSTnN2cTNLR3RUL3kvOEJUY0dpb3AwK1VDa
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF: -1 tvg-logo="https://i.ibb.co.com/3F5gR5m/private-bodyguard.jpg" group-title="MOVIES", PRIVATE BODYGUARD eps1
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/3F5gR5m/private-bodyguard.jpg" group-title="MOVIES", PRIVATE BODYGUARD eps01
 https://nontoncdn.com/Private.Bodyguard.Eps.01.mp4
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/3F5gR5m/private-bodyguard.jpg" group-title="MOVIES", PRIVATE BODYGUARD eps02
+https://nontoncdn.com/Private.Bodyguard.Eps.02.mp4
