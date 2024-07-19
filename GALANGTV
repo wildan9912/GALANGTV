@@ -5,12 +5,11 @@ https://media.publit.io/file/Tak-berjudul-2-480p-1.mp4
 #EXTVLCOPT:http-referrer=
 https://media.publit.io/file/comingsoon.mp4
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/nR6x283/persib-vs-psm-makassar.jpg" group-title="LIVE EVENT", 1.PERSIB VS PSM MAKASSAR
-#EXTVLCOPT:http-referrer=https://ben.quietlywheat23.shop/id/player.html
-https://fhlsport20.fls77.xyz/token-Ixd6k7WTeP%2BG6mUow%2FY6ymyBlMCEhHzjPi34k6RNFzH64LKcHUFdCIsvqxJOVUtJBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/0n5rn94rnUE0pQbiY3EmAmphZ3umqT0ho25y/super/3x_571543.m3u8
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=849e66e2deb224ddee3c8edee8b9be61:f55a0747fd676c19cbe97cc677429d94
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17584_stream.mpd?hdnts=exp=1721393543~acl=/drm/dash/*~id=69578335~hmac=285c4e3cd237b3f99e4bd61fcb9fa8180cca07733682b25c67d2304da5e6a520
 
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co/cC2sSc0/20231113-200301.jpg" group-title="PENGAJIAN", GUS IDHAM
