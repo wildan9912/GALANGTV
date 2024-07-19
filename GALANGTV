@@ -1,7 +1,7 @@
 #EXTINF: -1 tvg-logo="https://i.ibb.co/SQ2VFSX/20230811-040121.png" group-title="PERINGATAN", GALANG RAMADHAN
 https://media.publit.io/file/Tak-berjudul-2-480p-1.mp4
 
-#EXTINF: -1 tvg-https://i.ibb.co.com/jMHXgY9/borneo-vs-persis.jpg="logo" group-title="LIVE EVENT", 2.BORNEO VS PERSIS
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/jMHXgY9/borneo-vs-persis.jpg" group-title="LIVE EVENT", 2.BORNEO VS PERSIS
 #EXTVLCOPT:http-referrer=
 https://media.publit.io/file/comingsoon.mp4
 
