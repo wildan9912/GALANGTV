@@ -2,9 +2,10 @@
 https://media.publit.io/file/Tak-berjudul-2-480p-1.mp4
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/7YngVcp/philipina-vs-timur-leste.jpg" group-title="LIVE EVENT", 1.PHILIPINA U19 VS TIMUR LESTE U19
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17579_stream.mpd?hdnts=exp=1721474369~acl=/drm/dash/*~id=155691731~hmac=768b69403e03512fc3c471ba951135a4ec25c28f8ff3ea5b1e9b8e5f6318db8e
+#EXTVLCOPT:http-referrer=https://ben.quietlywheat23.shop/id/player.html?mdata=Mzk5NjI0MV8x&ilang=id
+https://fhlsport20.fls77.xyz/token-IEIqzuPHf6SG62EoxPY6zWmDlMOE0CjjPi2qkqJOFTH3tLidHUFdCIsoqhZLVU5JBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/1925604qnUE0pQbiY3EmAmphZ3umqT0ho25y/super/3x_571609.m3u8
+
+
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/bNtDKj7/cambodia-vs-indonesia.jpg" group-title="LIVE EVENT", 2.CAMBODIA U19 VS INDONESIA U19
 https://media.publit.io/file/comingsoon.mp4
