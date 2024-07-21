@@ -1,12 +1,18 @@
-#EXTINF: -1 tvg-logo="https://i.ibb.co/SQ2VFSX/20230811-040121.png" group-title="PERINGATAN", GALANG RAMADHAN.
+#EXTINF: -1 tvg-logo="https://i.ibb.co/SQ2VFSX/20230811-040121.png" group-title="PERINGATAN", GALANG RAMADHAN
 https://media.publit.io/file/Tak-berjudul-2-480p-1.mp4
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/s6dMHWG/persis-vs-psm.jpg" group-title="LIVE EVENT", 1.PERSIS VS PSM
 https://media.publit.io/file/comingsoon.mp4
 
-
-#EXTINF: -1 tvg-logo="https://i.ibb.co.com/qWxN8Z3/persib-vs-borneo.jpg" group-title="LIVE EVENT", 2.PERSIB VS BORNEO
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/RBWWfhf/brunei-vs-thailand.jpg" group-title="LIVE EVENT", 2.BRUNEI U19 VS THAILAND U19
 https://media.publit.io/file/comingsoon.mp4
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/qWxN8Z3/persib-vs-borneo.jpg" group-title="LIVE EVENT", 3.PERSIB VS BORNEO
+https://media.publit.io/file/comingsoon.mp4
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/q1bxK6D/singapora-vs-malaysia.jpg" group-title="LIVE EVENT", 4.SINGAPURA U19 VS MALAYSIA U19
+https://media.publit.io/file/comingsoon.mp4
+
 
 
 
