@@ -14,7 +14,10 @@ https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17584_stream.mpd?h
 https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17579_stream.mpd?hdnts=exp=1721650404~acl=/drm/dash/*~id=155691731~hmac=e42bd137357cce683bacf3df10a6072af4d3333a6109b730a2dc3a9fdc5f3d26
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/qWxN8Z3/persib-vs-borneo.jpg" group-title="LIVE EVENT", 3.PERSIB VS BORNEO
-https://media.publit.io/file/comingsoon.mp4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=13e513ca807008120246b46838272c26:e392b41821e6e3a3d0426d1efb43df9f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17585_stream.mpd?hdnts=exp=1721664758~acl=/drm/dash/*~id=155691731~hmac=c31687a777dbeb18aa2c81d9ae1b03163b56db111c37b58c4aa4d10de78adc6c
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/q1bxK6D/singapora-vs-malaysia.jpg" group-title="LIVE EVENT", 4.SINGAPURA U19 VS MALAYSIA U19
 #KODIPROP:inputstream.adaptive.license_type=clearkey
