@@ -8,8 +8,7 @@ https://media.publit.io/file/comingsoon.mp4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5317d7779d58776206ba8705afd4f99f:a0f1d977065726f60688a0664bc1e7de
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17599_stream.mpd?hdnts=exp=1721747180~acl=/drm/dash/*~id=155691731~hmac=7d75b85b67bc33cd104c1f2aff4f215876b45350ff40d57783e6365751fb1a61
-
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17599_stream.mpd?hdnts=exp=1721748666~acl=/drm/dash/*~id=155691731~hmac=5d45d6bf52c41df347ddea6b41e23e4dd9d97014f40260fe16ef387ee36e356b
 
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co/cC2sSc0/20231113-200301.jpg" group-title="PENGAJIAN", GUS IDHAM
