@@ -1,29 +1,9 @@
 #EXTINF: -1 tvg-logo="https://i.ibb.co/SQ2VFSX/20230811-040121.png" group-title="PERINGATAN", GALANG RAMADHAN
 https://media.publit.io/file/Tak-berjudul-2-480p-1.mp4
 
-#EXTINF: -1 tvg-logo="https://i.ibb.co.com/s6dMHWG/persis-vs-psm.jpg" group-title="LIVE EVENT", 1.PERSIS VS PSM
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=849e66e2deb224ddee3c8edee8b9be61:f55a0747fd676c19cbe97cc677429d94
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17584_stream.mpd?hdnts=exp=1721650179~acl=/drm/dash/*~id=155691731~hmac=f539439235fec6f8a2ac16e1ab29aabce334ef52e601a3fb00f085518a3711b3
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/pKWvRR2/indonesia-vs-timor-leste.jpg" group-title="LIVE EVENT", INDONESIA U19 VS TIMOR LESTE U19
+https://media.publit.io/file/comingsoon.mp4
 
-#EXTINF: -1 tvg-logo="https://i.ibb.co.com/RBWWfhf/brunei-vs-thailand.jpg" group-title="LIVE EVENT", 2.BRUNEI U19 VS THAILAND U19
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4ea341672cbdab3dd779977800766db2:4399f8fca9eaf3467d70d91eb070e1d6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17579_stream.mpd?hdnts=exp=1721650404~acl=/drm/dash/*~id=155691731~hmac=e42bd137357cce683bacf3df10a6072af4d3333a6109b730a2dc3a9fdc5f3d26
-
-#EXTINF: -1 tvg-logo="https://i.ibb.co.com/qWxN8Z3/persib-vs-borneo.jpg" group-title="LIVE EVENT", 3.PERSIB VS BORNEO
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=13e513ca807008120246b46838272c26:e392b41821e6e3a3d0426d1efb43df9f
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17585_stream.mpd?hdnts=exp=1721664758~acl=/drm/dash/*~id=155691731~hmac=c31687a777dbeb18aa2c81d9ae1b03163b56db111c37b58c4aa4d10de78adc6c
-
-#EXTINF: -1 tvg-logo="https://i.ibb.co.com/q1bxK6D/singapora-vs-malaysia.jpg" group-title="LIVE EVENT", 4.SINGAPURA U19 VS MALAYSIA U19
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0767b7c896ce8c94013fd2afc2f8fcd0:02419eea67ed8c966cba0e02b9506d22
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/206_stream.mpd?hdnts=exp=1721664062~acl=/drm/dash/*~id=155691731~hmac=8b844c5c3fd1511cf38e2c3ecebc3b2ff014c5a2ae3d414a6299d1df1c7095e1
 
 
 
