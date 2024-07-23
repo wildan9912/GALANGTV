@@ -5,8 +5,9 @@ https://media.publit.io/file/Tak-berjudul-2-480p-1.mp4
 https://media.publit.io/file/comingsoon.mp4
 
 #EXTINF: -1 tvg-logo="https://thumbor.prod.vidiocdn.com/oqfnxhmexfQRbdUN5lSqSewmn5s=/784x441/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/17334/22nd-asian-men-s-u-20-volleyball-championship-cover-978ac0.jpg" group-title="LIVE EVENT", VOLLY U20
-https://media.publit.io/file/comingsoon.mp4
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://etslive-v3-vidio-com-tokenized.akamaized.net/live/17334/master.m3u8?hdnts=exp=1721743232~acl=/live/17334/*~id=155691731~hmac=ace19c148ec9870c956beade3f671326ea2a0afe24004fb31f3532f80001956e
 
 
 
