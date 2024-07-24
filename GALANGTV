@@ -1,21 +1,13 @@
 #EXTINF: -1 tvg-logo="https://i.ibb.co/SQ2VFSX/20230811-040121.png" group-title="PERINGATAN", GALANG RAMADHAN
 https://media.publit.io/file/Tak-berjudul-2-480p-1.mp4
 
-#EXTINF: -1 tvg-logo="https://i.ibb.co.com/4Kz2n4y/bali-united-vs-madura-united.jpg" group-title="LIVE EVENT", 1.BALI UNITED VS MADURA UNITED
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=849e66e2deb224ddee3c8edee8b9be61:f55a0747fd676c19cbe97cc677429d94
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17584_stream.mpd?hdnts=exp=1721824896~acl=/drm/dash/*~id=155691731~hmac=3a27ae20004cbedf27da28f11b30feb534110c4970e036243c9e50709adf2c32
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/ySXNZqh/borneo-vs-psm.jpg" group-title="LIVE EVENT", 1.BORNEO VS PSM
+https://media.publit.io/file/comingsoon.mp4
 
-#EXTINF: -1 tvg-logo="https://i.ibb.co.com/s1RsnZG/persija-vs-arema.jpg" group-title="LIVE EVENT", 2.PERSIJA VS AREMA FC
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=13e513ca807008120246b46838272c26:e392b41821e6e3a3d0426d1efb43df9f
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17585_stream.mpd?hdnts=exp=1721837827~acl=/drm/dash/*~id=155691731~hmac=e29a61a05adfe10c59c86e67d41200301dcf8e7eb31e769a3425896770227d7c
 
-#EXTINF: -1 tvg-logo="logo" group-title="LIVE EVENT", tes argentina u23
-#EXTVLCOPT:http-referrer=https://ben.quietlywheat23.shop/id/player.html?mdata=Mzk3NTUzMl8x&ilang=id
-https://fhlsport20.fls77.xyz/token-J0Epn%2BWUevWGvjQhxfY6mDjRlJvU0yHjOSOjz6dPGWGm57aZHUFdCIskrxVKWEpJBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/5np493pnnUE0pQbiY3EmAmphZ3umqT0ho25y/super/3x_571718.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/Fhm5Q59/persib-vs-persis.jpg" group-title="LIVE EVENT", 2.PERSIB VS PERSIS
+https://media.publit.io/file/comingsoon.mp4
+
 
 
 
