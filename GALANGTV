@@ -1,17 +1,14 @@
 #EXTINF: -1 tvg-logo="https://i.ibb.co/SQ2VFSX/20230811-040121.png" group-title="PERINGATAN", GALANG RAMADHAN
 https://media.publit.io/file/Tak-berjudul-2-480p-1.mp4
 
-#EXTINF: -1 tvg-logo="https://i.ibb.co.com/pKWvRR2/indonesia-vs-timor-leste.jpg" group-title="LIVE EVENT", INDONESIA U19 VS TIMOR LESTE U19
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b5874021e33f49d4dac5cd55344b0d74:7b49f3eecf4e9336ffdb9a549d2ee781
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17578_stream.mpd?hdnts=exp=1721749649~acl=/drm/dash/*~id=155691731~hmac=c4011a9d016f1d15f5ec39c5d63b79e4440a3ecb7f3bc1d341329558b08700b9
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/4Kz2n4y/bali-united-vs-madura-united.jpg" group-title="LIVE EVENT", 1.BALI UNITED VS MADURA UNITED
+https://media.publit.io/file/comingsoon.mp4
 
-#EXTINF: -1 tvg-logo="https://thumbor.prod.vidiocdn.com/oqfnxhmexfQRbdUN5lSqSewmn5s=/784x441/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/17334/22nd-asian-men-s-u-20-volleyball-championship-cover-978ac0.jpg" group-title="LIVE EVENT", VOLLY U20
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5317d7779d58776206ba8705afd4f99f:a0f1d977065726f60688a0664bc1e7de
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17599_stream.mpd?hdnts=exp=1721748666~acl=/drm/dash/*~id=155691731~hmac=5d45d6bf52c41df347ddea6b41e23e4dd9d97014f40260fe16ef387ee36e356b
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/s1RsnZG/persija-vs-arema.jpg" group-title="LIVE EVENT", 2.PERSIJA VS AREMA FC
+https://media.publit.io/file/comingsoon.mp4
+
+
 
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co/cC2sSc0/20231113-200301.jpg" group-title="PENGAJIAN", GUS IDHAM
