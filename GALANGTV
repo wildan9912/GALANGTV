@@ -2,8 +2,11 @@
 https://media.publit.io/file/Tak-berjudul-2-480p-1.mp4
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/4Kz2n4y/bali-united-vs-madura-united.jpg" group-title="LIVE EVENT", 1.BALI UNITED VS MADURA UNITED
-https://media.publit.io/file/comingsoon.mp4
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=849e66e2deb224ddee3c8edee8b9be61:f55a0747fd676c19cbe97cc677429d94
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17584_stream.mpd?hdnts=exp=1721824896~acl=/drm/dash/*~id=155691731~hmac=3a27ae20004cbedf27da28f11b30feb534110c4970e036243c9e50709adf2c32
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/s1RsnZG/persija-vs-arema.jpg" group-title="LIVE EVENT", 2.PERSIJA VS AREMA FC
 https://media.publit.io/file/comingsoon.mp4
