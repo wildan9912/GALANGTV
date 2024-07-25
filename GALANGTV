@@ -2,9 +2,10 @@
 https://media.publit.io/file/Tak-berjudul-2-480p-1.mp4
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/ySXNZqh/borneo-vs-psm.jpg" group-title="LIVE EVENT", 1.BORNEO VS PSM
-#EXTVLCOPT:http-referrer=https://ben.quietlywheat23.shop/id/player.html?mdata=MTY5MzAyNV8xMw&ilang=id
-https://fhlsport20.fls77.xyz/token-cxVzm7jCfKKG5GQplvY6n2zQlJuD0XvjaC3%2FwvVKFzWmsrXKHUFdCIskpRNJXEhJBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/1r62426qnUE0pQbiY3EmAmphZ3umqT0ho25y/super/3x_571772.m3u8
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bbd51d0ae4ea4b6b838dbd6221d0a35f:774a28be201d5cda42f807f34cf93f21
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17584_stream.mpd?hdnts=exp=1721909999~acl=/drm/dash/*~id=155691731~hmac=d56ccd7118c373fe4eca1f327157b7f47c59ac723a61653514a12fbdc922c0dc
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/Fhm5Q59/persib-vs-persis.jpg" group-title="LIVE EVENT", 2.PERSIB VS PERSIS
 https://media.publit.io/file/comingsoon.mp4
