@@ -1,11 +1,11 @@
-#EXTINF: -1 tvg-logo="https://i.ibb.co/SQ2VFSX/20230811-040121.png" group-title="PERINGATAN", GALANG RAMADHAN..
+#EXTINF: -1 tvg-logo="https://i.ibb.co/SQ2VFSX/20230811-040121.png" group-title="PERINGATAN", GALANG RAMADHAN
 https://media.publit.io/file/Tak-berjudul-2-480p-1.mp4
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/ySXNZqh/borneo-vs-psm.jpg" group-title="LIVE EVENT", 1.BORNEO VS PSM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bbd51d0ae4ea4b6b838dbd6221d0a35f:774a28be201d5cda42f807f34cf93f21
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17584_stream.mpd?hdnts=exp=1721909675~acl=/drm/dash/*~id=155691731~hmac=a24fce63d5e5e1a4d97f19e0931c1ea30df772f63fcaf8f4ed32f22cc84b1785
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17584_stream.mpd?hdnts=exp=1721909999~acl=/drm/dash/*~id=155691731~hmac=d56ccd7118c373fe4eca1f327157b7f47c59ac723a61653514a12fbdc922c0dc
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/Fhm5Q59/persib-vs-persis.jpg" group-title="LIVE EVENT", 2.PERSIB VS PERSIS
 https://media.publit.io/file/comingsoon.mp4
