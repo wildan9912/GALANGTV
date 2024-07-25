@@ -5,7 +5,7 @@ https://media.publit.io/file/Tak-berjudul-2-480p-1.mp4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bbd51d0ae4ea4b6b838dbd6221d0a35f:774a28be201d5cda42f807f34cf93f21
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17584_stream.mpd?hdnts=exp=1721909112~acl=/drm/dash/*~id=155691731~hmac=0e9694a83587549bd76ccfcac8a012c902d835e2360a872b0aff402a78f971dd
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17584_stream.mpd?hdnts=exp=1721909276~acl=/drm/dash/*~id=155691731~hmac=e15643b60c401df34080d07f08a47aa0a715b19744b693483275707c79dc8343
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/Fhm5Q59/persib-vs-persis.jpg" group-title="LIVE EVENT", 2.PERSIB VS PERSIS
 https://media.publit.io/file/comingsoon.mp4
