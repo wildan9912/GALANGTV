@@ -2,10 +2,9 @@
 https://media.publit.io/file/Tak-berjudul-2-480p-1.mp4
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/n6smGNG/madura-vs-arema.jpg" group-title="LIVE EVENT", 1.MADURA VS ARENA FC
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/wildan9912/tesiptv/main/TES.m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17584_stream.mpd?hdnts=exp=1721995226~acl=/drm/dash/*~id=155691731~hmac=f9ebfa61ac026582a638e2ec7a7c671dcfb83ddc2630319efd145b74afacfd94
+#EXTVLCOPT:http-referrer=https://ben.quietlywheat23.shop/id/player.html?mdata=NDAxMjA0NV8x&ilang=id
+https://fhlsport20.fls77.xyz/token-cBd9zeWXe6WG6jctxfY6zzqFlJva0C7jPXStwaUaETLysuSeHUFdCIslpBFAWU1JBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/q2006844nUE0pQbiY3EmAmphZ3umqT0ho25y/super/3x_571825.m3u8
+
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/6s1K28k/bali-vs-persija.jpg" group-title="LIVE EVENT", 2.BALI UNITED VS PERSIJA
 https://media.publit.io/file/comingsoon.mp4
