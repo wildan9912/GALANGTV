@@ -1,16 +1,9 @@
 #EXTINF: -1 tvg-logo="https://i.ibb.co/SQ2VFSX/20230811-040121.png" group-title="PERINGATAN", GALANG RAMADHAN
 https://media.publit.io/file/Tak-berjudul-2-480p-1.mp4
 
-#EXTINF: -1 tvg-logo="https://i.ibb.co.com/n6smGNG/madura-vs-arema.jpg" group-title="LIVE EVENT", 1.MADURA VS ARENA FC
-#EXTVLCOPT:http-referrer=https://ben.quietlywheat23.shop/id/player.html?mdata=NDAxMjA0NV8x&ilang=id
-https://fhlsport20.fls77.xyz/token-cBd9zeWXe6WG6jctxfY6zzqFlJva0C7jPXStwaUaETLysuSeHUFdCIslpBFAWU1JBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/q2006844nUE0pQbiY3EmAmphZ3umqT0ho25y/super/3x_571825.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/6Zd7jLY/20240727-133258.jpg" group-title="LIVE EVENT", INDONESIA U19 VS MALAYSIA U19
+https://media.publit.io/file/comingsoon.mp4
 
-
-#EXTINF: -1 tvg-logo="https://i.ibb.co.com/6s1K28k/bali-vs-persija.jpg" group-title="LIVE EVENT", 2.BALI UNITED VS PERSIJA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=13e513ca807008120246b46838272c26:e392b41821e6e3a3d0426d1efb43df9f
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17585_stream.mpd?hdnts=exp=1722010026~acl=/drm/dash/*~id=155691731~hmac=f21bae9b7b469e77c9a9b0db86edb9848a1be1f97872c1f1e6b5c6f150ac73f0
 
 
 
