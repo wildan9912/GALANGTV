@@ -1,12 +1,8 @@
 #EXTINF: -1 tvg-logo="https://i.ibb.co/SQ2VFSX/20230811-040121.png" group-title="PERINGATAN", GALANG RAMADHAN
 https://media.publit.io/file/Tak-berjudul-2-480p-1.mp4
 
-#EXTINF: -1 tvg-logo="https://i.ibb.co.com/6Zd7jLY/20240727-133258.jpg" group-title="LIVE EVENT", INDONESIA U19 VS MALAYSIA U19
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dc7f3c3627037e37470e7adda483fe4e:5fe23c7e5771e9b0584b1318cc3280bd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17609_stream.mpd?hdnts=exp=1722094152~acl=/drm/dash/*~id=155691731~hmac=af314d6602e89c59866cf2a380b116b4baff7391a5cd2184828bb3c2572b5500
-
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/ZKS19RZ/thailand-vs-indonesia.jpg" group-title="LIVE EVENT", THAILAND U19 VS INDONESIA U19
+https://media.publit.io/file/comingsoon.mp4
 
 
 
