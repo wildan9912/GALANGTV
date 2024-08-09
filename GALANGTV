@@ -1,11 +1,16 @@
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/87JtW93/galang-ramadhan.png" group-title="PERINGATAN", GALANG RAMADHAN
 https://media.publit.io/file/Tak-berjudul-2-480p-1.mp4
 
-#EXTINF: -1 tvg-logo="https://i.ibb.co.com/kDSNRXD/persib-vs-psbs-biak.jpg" group-title="LIVE EVENT", PERSIB VS PSBS BIAK
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=94945a0960bb1c6067e8d04080edd767:9cf9a7b1f49419872eb2376fcfc29516
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17623_stream.mpd?hdnts=exp=1723219136~acl=/drm/dash/*~id=155691731~hmac=e93ce4104441a2b006bb5134b0fa0a6ac7f4527d32b7f315270f78606b83911e
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/wswsNk3/psm-vs-persis.jpg" group-title="LIVE EVENT", 1.PSM VS PERSIS
+https://media.publit.io/file/comingsoon.mp4
+
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/LPGtgvV/madura-vs-malut.jpg" group-title="LIVE EVENT", 2.MADURA VS MALUT
+https://media.publit.io/file/comingsoon.mp4
+
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/g3J5byS/persija-vs-barito.jpg" group-title="LIVE EVENT", 3.PERSIJA VS BARITO
+https://media.publit.io/file/comingsoon.mp4
 
 
 
