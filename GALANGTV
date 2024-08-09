@@ -2,13 +2,10 @@
 https://media.publit.io/file/Tak-berjudul-2-480p-1.mp4
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/kDSNRXD/persib-vs-psbs-biak.jpg" group-title="LIVE EVENT", PERSIB VS PSBS BIAK
-https://media.publit.io/file/comingsoon.mp4
-
-#EXTINF: -1 tvg-logo="logo" group-title="LIVE EVENT", VOLLY
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a1389742081ccb586096d4f83f79282a:c7e8f55c4ac0721a0c656d52089ca7e6
+#KODIPROP:inputstream.adaptive.license_key=94945a0960bb1c6067e8d04080edd767:9cf9a7b1f49419872eb2376fcfc29516
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17615_stream.mpd?hdnts=exp=1723203705~acl=/drm/dash/*~id=155691731~hmac=c717a24a908d03102f74a911b2c157fc5581ef61506fe30bdcbbea4b417d044d
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17623_stream.mpd?hdnts=exp=1723219136~acl=/drm/dash/*~id=155691731~hmac=e93ce4104441a2b006bb5134b0fa0a6ac7f4527d32b7f315270f78606b83911e
 
 
 
