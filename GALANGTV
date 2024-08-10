@@ -14,7 +14,10 @@ https://etslive-v3-vidio-com-tokenized.akamaized.net/live/205/master.m3u8?hdnts=
 
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/g3J5byS/persija-vs-barito.jpg" group-title="LIVE EVENT", 3.PERSIJA VS BARITO
-https://media.publit.io/file/comingsoon.mp4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=41afa5ce1f058754b60e75d7b18d6fc8:0ec58a10968ce216d47cb8b14a270417
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17624_stream.mpd?hdnts=exp=1723304253~acl=/drm/dash/*~id=155691731~hmac=88380917cda6dfba82503626d980db916ef20d100c96bf6c7221c91fedc72f58
 
 
 
