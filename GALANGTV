@@ -2,7 +2,9 @@
 https://media.publit.io/file/Tak-berjudul-2-480p-1.mp4
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/wswsNk3/psm-vs-persis.jpg" group-title="LIVE EVENT", 1.PSM VS PERSIS
-https://media.publit.io/file/comingsoon.mp4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://etslive-v3-vidio-com-tokenized.akamaized.net/live/205/master.m3u8?hdnts=exp=1723291486~acl=/live/205/*~id=155691731~hmac=4338b8741e59dd9d62068b4aad016c3f913329b6a46a7eeceea71ccef6ac9cf2
 
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/LPGtgvV/madura-vs-malut.jpg" group-title="LIVE EVENT", 2.MADURA VS MALUT
