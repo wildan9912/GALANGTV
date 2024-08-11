@@ -1,23 +1,18 @@
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/87JtW93/galang-ramadhan.png" group-title="PERINGATAN", GALANG RAMADHAN.
 https://media.publit.io/file/Tak-berjudul-2-480p-1.mp4
 
-#EXTINF: -1 tvg-logo="https://i.ibb.co.com/wswsNk3/psm-vs-persis.jpg" group-title="LIVE EVENT", 2.PSM VS PERSIS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://etslive-v3-vidio-com-tokenized.akamaized.net/live/17622/master.m3u8?hdnts=exp=1723292719~acl=/live/17622/*~id=155691731~hmac=21dfccbbf08310d4496599fe35c57245d78f3a2030ae25fb5fa9599aba31c2fa
-
-#EXTINF: -1 tvg-logo="https://i.ibb.co.com/LPGtgvV/madura-vs-malut.jpg" group-title="LIVE EVENT", 1.MADURA VS MALUT
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://etslive-v3-vidio-com-tokenized.akamaized.net/live/205/master.m3u8?hdnts=exp=1723291486~acl=/live/205/*~id=155691731~hmac=4338b8741e59dd9d62068b4aad016c3f913329b6a46a7eeceea71ccef6ac9cf2
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/7rBkFRR/persik-vs-bali.jpg" group-title="LIVE EVENT", 1.PERSIK VS BALI 
+https://media.publit.io/file/comingsoon.mp4
 
 
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/F0xF5t3/psis-vs-persita.jpg" group-title="LIVE EVENT", 2.PSIS VS PERSITA
+https://media.publit.io/file/comingsoon.mp4
 
-#EXTINF: -1 tvg-logo="https://i.ibb.co.com/g3J5byS/persija-vs-barito.jpg" group-title="LIVE EVENT", 3.PERSIJA VS BARITO
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=41afa5ce1f058754b60e75d7b18d6fc8:0ec58a10968ce216d47cb8b14a270417
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17624_stream.mpd?hdnts=exp=1723304253~acl=/drm/dash/*~id=155691731~hmac=88380917cda6dfba82503626d980db916ef20d100c96bf6c7221c91fedc72f58
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/23RWPHw/persebaya-vs-pss-sleman.jpg" group-title="LIVE EVENT", 3.PERSEBAYA VS PSS SLEMAN
+https://media.publit.io/file/comingsoon.mp4
+
+
 
 
 
