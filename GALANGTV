@@ -9,7 +9,10 @@ https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17623_stream.mpd?h
 
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/F0xF5t3/psis-vs-persita.jpg" group-title="LIVE EVENT", 2.PSIS VS PERSITA
-https://media.publit.io/file/comingsoon.mp4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://etslive-v3-vidio-com-tokenized.akamaized.net/live/17622/master.m3u8?hdnts=exp=1723379116~acl=/live/17622/*~id=155691731~hmac=82da760b4d608fee9b72522beb924bb365c79fb6df0bdb9cf868794ba1cde86b
+
 
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/23RWPHw/persebaya-vs-pss-sleman.jpg" group-title="LIVE EVENT", 3.PERSEBAYA VS PSS SLEMAN
