@@ -1,25 +1,13 @@
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/87JtW93/galang-ramadhan.png" group-title="PERINGATAN", GALANG RAMADHAN.
 https://media.publit.io/file/Tak-berjudul-2-480p-1.mp4
 
-#EXTINF: -1 tvg-logo="https://i.ibb.co.com/7rBkFRR/persik-vs-bali.jpg" group-title="LIVE EVENT", 1.PERSIK VS BALI 
+#EXTINF: -1 tvg-logo="https://thumbor.prod.vidiocdn.com/dUsxTiuKCggVIvD7sKbsW1VC0p0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3649351/ff3d2e.jpg" group-title="LIVE EVENT", 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=94945a0960bb1c6067e8d04080edd767:9cf9a7b1f49419872eb2376fcfc29516
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17623_stream.mpd?hdnts=exp=1723377756~acl=/drm/dash/*~id=155691731~hmac=28cce8f9afcd5559ccdc33faaf92e297c8d01494097208bead6cef7253213ca7
+https://etslive-v3-vidio-com-preview-tokenized.akamaized.net/drm/dash/17623_stream.mpd?hdnts=exp=1723450163~acl=/drm/dash/*~id=151186759~hmac=8aa37ef22e7259b8a17403112487c456932d7a8f43bd2030b5f9f0ee5ab16463
 
 
-#EXTINF: -1 tvg-logo="https://i.ibb.co.com/F0xF5t3/psis-vs-persita.jpg" group-title="LIVE EVENT", 2.PSIS VS PERSITA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://etslive-v3-vidio-com-tokenized.akamaized.net/live/17622/master.m3u8?hdnts=exp=1723379116~acl=/live/17622/*~id=155691731~hmac=82da760b4d608fee9b72522beb924bb365c79fb6df0bdb9cf868794ba1cde86b
-
-
-
-#EXTINF: -1 tvg-logo="https://i.ibb.co.com/23RWPHw/persebaya-vs-pss-sleman.jpg" group-title="LIVE EVENT", 3.PERSEBAYA VS PSS SLEMAN
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=94945a0960bb1c6067e8d04080edd767:9cf9a7b1f49419872eb2376fcfc29516
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17623_stream.mpd?hdnts=exp=1723390832~acl=/drm/dash/*~id=155691731~hmac=9c7f1a078453b0e5e2105cb48be032b986fcd0825b9b688bf2f3f2de5a79add0
 
 
 
