@@ -1,12 +1,8 @@
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/87JtW93/galang-ramadhan.png" group-title="PERINGATAN", GALANG RAMADHAN.
 https://media.publit.io/file/Tak-berjudul-2-480p-1.mp4
 
-#EXTINF: -1 tvg-logo="https://thumbor.prod.vidiocdn.com/dUsxTiuKCggVIvD7sKbsW1VC0p0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3649351/ff3d2e.jpg" group-title="LIVE EVENT", 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=94945a0960bb1c6067e8d04080edd767:9cf9a7b1f49419872eb2376fcfc29516
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://etslive-v3-vidio-com-preview-tokenized.akamaized.net/drm/dash/17623_stream.mpd?hdnts=exp=1723450163~acl=/drm/dash/*~id=151186759~hmac=8aa37ef22e7259b8a17403112487c456932d7a8f43bd2030b5f9f0ee5ab16463
-
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/dWbkbzj/20240812-223727.jpg" group-title="LIVE EVENT", 1. PERBAIKAN
+https://ucarecdn.com/60bc278c-61ad-408f-b0a1-ccb7e33e2e19/mixtapecoverblack_1723477840521.mp4
 
 
 
