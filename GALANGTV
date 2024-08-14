@@ -5,10 +5,11 @@ https://media.publit.io/file/Tak-berjudul-2-480p-1.mp4
 https://ucarecdn.com/60bc278c-61ad-408f-b0a1-ccb7e33e2e19/mixtapecoverblack_1723477840521.mp4
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF: -1 tvg-logo="logo" group-title="LIVE EVENT", REAL MADRID
-#EXTVLCOPT:http-referrer=https://ben.quietlywheat23.shop/id/player.html?mdata=Mzk3NTA1M18x&ilang=id
-https://fhlsport20.fls77.xyz/token-JUItk%2BOQKPGGuWUrxvY6yG3VlMCBjHjjOHP7xKZMFDmg7%2BbLHUFdCIkqqhdLW0lJBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/17s98929nUE0pQbiY3EmAmphZ3umqT0ho25y/super/3x_573394.m3u8
+#EXTINF: -1 tvg-logo="logo" group-title="LIVE EVENT", REAL MADRID VS ATALANTA
+https://getdazn.starlive.workers.dev/https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-017/stream.mpd
+
 
 
 
