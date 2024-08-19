@@ -5,7 +5,7 @@ https://media.publit.io/file/Tak-berjudul-2-480p-1.mp4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=18e8871ebd4097708ce092aaf5d30580:36e2c185b6893dd0aff2da66a38789a3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/205_stream.mpd?hdnts=exp=1724055388~acl=/drm/dash/*~id=165564600~hmac=b484a7578cdff31e6fe7173471a7da7fea1e9b4fee961eea27985b8366ef01dc
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/205_stream.mpd?hdnts=exp=1724056017~acl=/drm/dash/*~id=165564600~hmac=ac3ec5ca16f17680508adcb935d164517e33a52c981c89a2ff8dbb4d92090798
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/h29VrW8/persib-vs-dewa-united.jpg" group-title="LIVE EVENT", 2.PERSIB VS DEWA UNITED
 https://media.publit.io/file/comingsoon.mp4
