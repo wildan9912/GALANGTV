@@ -1,8 +1,11 @@
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/87JtW93/galang-ramadhan.png" group-title="PERINGATAN", GALANG RAMADHAN.
 https://media.publit.io/file/Tak-berjudul-2-480p-1.mp4
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/MsNP00q/20240905-231118.jpg" group-title="LIVE EVENT", ARAB SAUDI VS INDONESIA
-https://media.publit.io/file/comingsoon.mp4
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 
 
 
