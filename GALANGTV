@@ -40,10 +40,9 @@ http://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8|user-agent=Mozilla/5.0 (Wi
 #EXTINF: -1 tvg-logo="https://i.ibb.co/wNHq7Bb/ANTV.png" group-title="LOKAL", ANTV
 https://cempedak-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=30384ee5424eab4afdff34d7a59e0ef9:5f3d2f2c194266ae9a28210f8976cbe0
 #EXTINF: -1 tvg-logo="https://i.ibb.co/sC63L3R/rtv.jpg" group-title="LOKAL", RTV
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://cempedak-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
