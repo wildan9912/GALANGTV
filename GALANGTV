@@ -2,24 +2,12 @@
 https://media.publit.io/file/Tak-berjudul-2-480p-1.mp4
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF: -1 tvg-logo="https://i.ibb.co.com/MsNP00q/20240905-231118.jpg" group-title="LIVE EVENT", 1.ARAB SAUDI VS INDONESIA
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/gd2hcD3/indonesia-vs-australia.jpg" group-title="LIVE EVENT", 1.INDONESIA VS AUSTRALIA
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF: -1 tvg-logo="https://i.ibb.co.com/MsNP00q/20240905-231118.jpg" group-title="LIVE EVENT", 2.ARAB SAUDI VS INDONESIA
-#EXTVLCOPT:http-referrer=https://starlive.pages.dev/tarik.js
-https://in-your-face.starlive.workers.dev/auth%3D3e2139d43950b33772e2fee628b3a793ba85d012316e16ef2ec49b306a55910b44c8bfcb825e526319a0840f0fa25d116decaf79492e326fa33a2dd55f1e3ee053adfd986bbccb3793b1f034e3f8bc87babfb72e8389de57686d4ed44b342d0b831d01a4c602133650a4a9e912a76064cfc20a656aba0cfbb3bfd6c5206242461f9e14672e112b81fe44179a80f28cf736763790cfc938974316ddd8ee66f5bb%26cid%3DmGp9cauZ3kRdV984BV8WT240905%26_v%3D2%26_r%3DreOb4G%26_vis%3Dce6ee754a8c3cc185c209038fa58927dc13c83d1d373b217c101b6ac7db99442%26_vvs%3Df125b9c19a544f8d681cf1eddc121da9433bce30dd51a399bedf0c9fac850b2b/app/c273227.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF: -1 tvg-logo="https://i.ibb.co.com/MsNP00q/20240905-231118.jpg" group-title="LIVE EVENT", 3.ARAB SAUDI VS INDONESIA
-https://chn.starlive.workers.dev/live/ballbar_21360.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
