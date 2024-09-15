@@ -1,11 +1,11 @@
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/87JtW93/galang-ramadhan.png" group-title="PERINGATAN", GALANG RAMADHAN.
 https://media.publit.io/file/Tak-berjudul-2-480p-1.mp4
 
-#EXTINF: -1 tvg-logo="logo" group-title="LIVE EVENT", tes
-https://fhlsport20.fls77.xyz/token-d0AqneKSLKCG6DZ9y%2FY6nW2HlMPShy%2FjaS2pwqFKFzPzt%2BSfHUFdCIwsrBdKVEtJBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/8427n2ornUE0pQbiY3EmAmphZ3umqT0ho25y/super/3x_575135.m3u8
+#EXTINF:-1 group-title="LIVE EVENT" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/ndZ69xXTXNHw2Z-yZIsAs7BgSw4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3725037/40ea46.jpg", WIB - PERSIB vs PSIS Semarang - 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ben.quietlywheat23.shop/sw.js
+#KODIPROP:inputstream.adaptive.license_key=41afa5ce1f058754b60e75d7b18d6fc8:0ec58a10968ce216d47cb8b14a270417
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17624_stream.mpd?hdnts=exp=1726416552~acl=/drm/dash/17624*~id=165119615~hmac=809cc3cce6a447f4c46d10552c850871e72492c57eb5d261251a158c368676fc
 
 
 
