@@ -1,11 +1,13 @@
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/87JtW93/galang-ramadhan.png" group-title="PERINGATAN", GALANG RAMADHAN.
 https://media.publit.io/file/Tak-berjudul-2-480p-1.mp4
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=686fd53332665e12732f42724c45e5a6:159c64afb1e2bc501321713e277b1135
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="LIVE EVENT" tvg-name="Live Event" tvg-country="" ="https://thumbor.prod.vidiocdn.com/qzjrstoIwcoOEx3tN6Bkxs5keF0=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/25319/timor-leste-vs-indonesia-e595f9.jpg", INDONESIA U20 VS TIMOR LESTE U20
-https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17904_stream.mpd?hdnts=exp=1727440017~acl=/drm/dash/17904*~id=167391128~hmac=9a7537f7deac92b9130532ae7af7e981361be5c60a855ed6d90a26ba9bf8a8f7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36#EXTINF: -1 tvg-logo="logo" group-title="LIVE EVENT", 
+#EXTINF: -1 tvg-logo="logo" group-title="LIVE EVENT", indonesia u20 vs timor leste u20
+#EXTVLCOPT:http-referrer=https://ben.quietlywheat23.shop/sw.js
+https://fhlsport20.fls77.xyz/token-JRJ%2FzeWULvSGuWQoxfY6mz3RlJvRhi7jZC34l6VMQ2Xx77KaHUFdCI0oqBVLX09JBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/ns28r3nsnUE0pQbiY3EmAmphZ3umqT0ho25y/super/3x_576625.m3u8
+
+
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
