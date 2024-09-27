@@ -5,7 +5,7 @@ https://media.publit.io/file/Tak-berjudul-2-480p-1.mp4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=686fd53332665e12732f42724c45e5a6:159c64afb1e2bc501321713e277b1135
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17904_stream.mpd?hdnts=exp=1727438558~acl=/drm/dash/17904*~id=167391128~hmac=eb84158d5cd906b805b63e570dcef4199c969175f23f9921f8d65ec693b8df01
+https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17904_stream.mpd?hdnts=exp=1727438997~acl=/drm/dash/17904*~id=167391128~hmac=0e39f732f800388b41b1003cdc9541eb071bb139eb40634160e880b45118536e
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
