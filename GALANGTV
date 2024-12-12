@@ -2,11 +2,9 @@
 https://media.publit.io/file/Tak-berjudul-2-480p-1.mp4
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF: -1 tvg-logo="logo" group-title="LIVE EVENT", bang coly.
-#EXTVLCOPT:http-referrer=https://ben.quietlywheat23.shop/sw.js
-https://fhlsport21.fls38.xyz/token-JhconeWdKKeGuWF7lvY6kTmClMDX1iHjPXeqxKQYEjOg7uKZHUFdCYkrqRBLXkRJBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/ns49s6nsnUE0pQbiY3EmAmphZ3umqT0ho25y/super/3x_584156.m3u8
-
+#KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/y8RN9bj/indonesia-vs-laos.jpg" group-title="LIVE EVENT", INDONESIA VS LAOS
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
