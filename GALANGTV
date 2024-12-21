@@ -1,4 +1,4 @@
-#EXTINF: -1 tvg-logo="https://i.ibb.co.com/87JtW93/galang-ramadhan.png" group-title="PERINGATAN", GALANG RAMADHAN.
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/87JtW93/galang-ramadhan.png" group-title="PERINGATAN", GALANG RAMADHAN
 https://media.publit.io/file/Tak-berjudul-2-480p-1.mp4
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -54,6 +54,12 @@ https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/zfppwDF/primer-league.jpg" group-title="SPORT", PRIMER LEAGUE
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/zfppwDF/primer-league.jpg" group-title="SPORT", PRIMER LEAGUE 1
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
