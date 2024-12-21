@@ -1,10 +1,8 @@
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/87JtW93/galang-ramadhan.png" group-title="PERINGATAN", GALANG RAMADHAN
 https://media.publit.io/file/Tak-berjudul-2-480p-1.mp4
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
-#EXTINF: -1 tvg-logo="https://i.ibb.co.com/vVD8nNq/vietnam-vs-indonesia.jpg" group-title="LIVE EVENT", VIETNAM VS INDONESIA
-https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/rbGWVGT/indonesia-vs-filipina.jpg" group-title="LIVE EVENT", INDONESIA VS FILIPINA
+https://media.publit.io/file/comingsoon.mp4
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
