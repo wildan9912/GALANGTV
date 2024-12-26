@@ -1,10 +1,11 @@
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/87JtW93/galang-ramadhan.png" group-title="PERINGATAN", GALANG RAMADHAN.
 https://media.publit.io/file/Tak-berjudul-2-480p-1.mp4
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
-#EXTINF: -1 tvg-logo="https://i.ibb.co.com/rbGWVGT/indonesia-vs-filipina.jpg" group-title="LIVE EVENT", INDONESIA VS FILIPINA
-https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/1rCnB1S/semen-padang-vs-arema-fc.jpg" group-title="LIVE EVENT", SEMEN PADANG VS AREMA FC
+https://m.vidio.com/videos/8304650/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6IjgzMDQ2NTAiLCJjcmVhdGVkX2F0IjoxNzM1MjU2NDEzLCJleHRfZHVyYXRpb24iOjYwMH0.i_ROtpqUOiEGQRAEDGrMvM3Yt8NVWcy0iObNGf5v6Ec
+
+
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=21afccfca882b6fd029bfbf101b039c4:4178b215436eb40ec733adc233ff1760
