@@ -1,6 +1,12 @@
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/87JtW93/galang-ramadhan.png" group-title="PERINGATAN", GALANG RAMADHAN.
 https://media.publit.io/file/Tak-berjudul-2-480p-1.mp4
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF: -1 tvg-logo="logo" group-title="LIVE EVENT", TESS
+#EXTVLCOPT:http-referrer=https://accounts.score808cc.com/sso/check.html?_v=v1043
+https://s4youing-cf.cool6bcd6.cc/auth%3Da8acf35f59e83056e8b7a1ad4bc007c20431cf33a712725448e843813c7123407c6b07e894f28cb0704b5d14a18edd7400a7bb3ea6fe2fca427ca6205b3d0a3dfd3ab57781e2d3ea48ba1fc6fd9c7875d5e5f6da891d427b2d076b6da582f24be5a457f6f74c43106ca21e9ef021f659dded0296e5fa1879362fbaddd151cd21e1d783f9d97f368f1bed0d4db6750108b355cbcd92ba704db1a83beed943f735%26cid%3DqFHDZrapxqIM_rcJtoqha240906%26_v%3D2%26_r%3DN37jg9%26_vis%3De5cb97565f2c9045675c2b2666e1a3bd31832086fa4f2f80e0a8943bec787d18%26_vvs%3Dc2c95946c52686fa46c944e48214ec6fc83316052ecd6b90488bc8e1dde5a5fc/app/c306468.m3u8
+
 
 
 
