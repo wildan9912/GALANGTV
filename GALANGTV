@@ -167,10 +167,9 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/h1vWw5z/20231225-143702.jpg" group-title="LOKAL", CNBC INDONESIA
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w2018496991_b384000_sleng.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/nm20ScL/sportstar-2.jpg" group-title="LOKAL", SPORTSTAR 2
-https://cempedak-cdn-fly.mncnow.id/live/eds/MNCSports2-HD/sa_dash/MNCSports2-HD.mpd
+https://d1d2sbhidw0n3y.cloudfront.net/out/v1/cee2ab61ee8d4ff19cb0f0bffc37f9b8/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/72jYRSc/soccer-channel.jpg" group-title="LOKAL", SOCCER CHANNEL
