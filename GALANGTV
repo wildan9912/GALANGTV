@@ -154,7 +154,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/TVOne/sa_dash/TVOne.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 #EXTINF: -1 tvg-logo="https://i.ibb.co/3MdT7w8/metrotv.jpg" group-title="LOKAL", METRO TV
-https://cempedak-cdn-fly.mncnow.id/live/eds/Metro-TV2/sa_dash/Metro-TV2.mpd
+https://dsgtq5sngxkde.cloudfront.net/live/eds/Metro-TV2/sa_dash/Metro-TV2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
