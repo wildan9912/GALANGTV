@@ -4,7 +4,10 @@ https://media.publit.io/file/Tak-berjudul-2-480p-1.mp4
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/v4q2tfhS/indonesia-vs-bahrain.jpg" group-title="LIVE EVENT", INDONESIA VS BAHRAIN
 https://media.publit.io/file/comingsoon.mp4
 
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF: -1 tvg-logo="logo" group-title="movies", yowes ben 2
+https://sv3.jwplayer21.com/stream-vid/V2h4STVKclFCZ09pQ09HY1EvVW1SWm52aFdodFFrN0RvVThZMnl4U0cyR29hczFZTWpzZXhCT1F0L2gzN0VXeWw3dU9ieEdjMTMvSU5rZ0twWFlNTVE9PQ,,/original/?dl=0&gt=UzRqaGlrZWRVOVhhV21vNEZnaHpxQmk5eGRDSUJyNFErY09rbFVKcm1RNUhRd2VvMzlqT3JzOWhqai80VERVZ3Q3QmR4MnRvVWRra0QxWFhtL2tJMmc9PQ,,
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=21afccfca882b6fd029bfbf101b039c4:4178b215436eb40ec733adc233ff1760
