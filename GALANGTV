@@ -96,7 +96,7 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1723751957/ei/t
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
-#EXTINF: -1 tvg-logo="https://i.ibb.co/mhrYc3w/transtv.jpg" group-title="LOKAL", TRANSTV
+#EXTINF: -1 tvg-logo="https://i.imgur.com/v1aJPEa.jpeg" group-title="LOKAL", TRANSTV
 https://dsgtq5sngxkde.cloudfront.net/live/eds/TransTV-2/sa_dash/TransTV-2.mpd
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co/vZfW7XJ/trans7.jpg" group-title="LOKAL", TRANS7
