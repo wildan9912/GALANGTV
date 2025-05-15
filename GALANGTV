@@ -120,7 +120,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/ANTV/sa_dash/ANTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
-#EXTINF: -1 tvg-logo="https://i.ibb.co/sC63L3R/rtv.jpg" group-title="LOKAL", RTV
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Cw75BUr.jpeg" group-title="LOKAL", RTV
 https://dsgtq5sngxkde.cloudfront.net/live/eds/RTV/sa_dash/RTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
