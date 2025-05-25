@@ -133,10 +133,10 @@ https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/kMzBt3t/Gtv.png" group-title="LOKAL", GTV
 https://dsgtq5sngxkde.cloudfront.net/live/eds/GTV-HD/sa_dash/GTV-HD.mpd
 
-#EXTINF: -1 tvg-logo="https://i.ibb.co/d5gDzfG/MNCTV.png" group-title="LOKAL", MNC TV
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/d5gDzfG/MNCTV.png" group-title="LOKAL", MNC TV
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
