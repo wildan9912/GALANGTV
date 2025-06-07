@@ -120,10 +120,11 @@ http://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8|user-agent=Mozilla/5.0 (Wi
 #EXTINF: -1 tvg-logo="https://i.imgur.com/2oelIk8.png" group-title="LOKAL", ANTV
 https://dsgtq5sngxkde.cloudfront.net/live/eds/ANTV/sa_dash/ANTV.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Cw75BUr.jpeg" group-title="LOKAL", RTV
-https://dsgtq5sngxkde.cloudfront.net/live/eds/RTV/sa_dash/RTV.mpd
+https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co/jJTy8x8/rcti.jpg" group-title="LOKAL", RCTI
 #EXTVLCOPT:http-user-agent=android-R+
