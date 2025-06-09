@@ -7,11 +7,6 @@ https://media.publit.io/file/Tak-berjudul-2-480p-1.mp4
 https://lvvb9d6p7p.cdn-centaurus.com/hls2/01/10264/4l0q4maw20pv_n/index-v1-a1.m3u8?t=AmSP69-cVNvICD9_Bt9VN4nSXBj3Hwwc9SN6jRFW9jo&s=1748358781&e=129600&f=51324618&srv=qbyrpo83t7d3&i=0.4&sp=500&p1=qbyrpo83t7d3&p2=qbyrpo83t7d3&asn=7713
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF: -1 tvg-logo="logo" group-title="movies", yowes ben 2
-https://sv3.jwplayer21.com/stream-vid/V2h4STVKclFCZ09pQ09HY1EvVW1SWm52aFdodFFrN0RvVThZMnl4U0cyR29hczFZTWpzZXhCT1F0L2gzN0VXeWw3dU9ieEdjMTMvSU5rZ0twWFlNTVE9PQ,,/original/?dl=0&gt=UzRqaGlrZWRVOVhhV21vNEZnaHpxQmk5eGRDSUJyNFErY09rbFVKcm1RNUhRd2VvMzlqT3JzOWhqai80VERVZ3Q3QmR4MnRvVWRra0QxWFhtL2tJMmc9PQ,,
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=21afccfca882b6fd029bfbf101b039c4:4178b215436eb40ec733adc233ff1760
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/DYW6vK0/champions-tv1.jpg" group-title="SPORT", CHAMPIONS TV 1
@@ -115,10 +110,13 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8|user-agent=Mozilla/5.0
 #EXTINF: -1 tvg-logo="https://i.ibb.co/SrKxLDT/net.jpg" group-title="LOKAL", NET TV
 http://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #EXTINF: -1 tvg-logo="https://i.imgur.com/2oelIk8.png" group-title="LOKAL", ANTV
-https://dsgtq5sngxkde.cloudfront.net/live/eds/ANTV/sa_dash/ANTV.mpd
+https://av-ch-cdn.mncnow.id/live/eds/ANTV/sa_dash/ANTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
