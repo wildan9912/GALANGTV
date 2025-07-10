@@ -2,7 +2,11 @@
 https://media.publit.io/file/Tak-berjudul-2-480p-1.mp4
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/uqVQLXB.png" group-title="lIVE EVENT", AREMA FC VS OXFORD UTD
-https://media.publit.io/file/Black-White-Simple-Coming-Soon-Facebook-Story-20250709-040903-0001.mp4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=89ffbda79fd7216a4c1d1718e665d8ba:f2af50f1f91dd427c639f6e358912dbf
+https://faiqtv.my.id/percobaanvidio/dash.php/.mpd?id=19035&type=dash
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=21afccfca882b6fd029bfbf101b039c4:4178b215436eb40ec733adc233ff1760
