@@ -1,8 +1,12 @@
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/87JtW93/galang-ramadhan.png" group-title="PERINGATAN", GALANG RAMADHAN.
 https://media.publit.io/file/Tak-berjudul-2-480p-1.mp4
 
-#EXTINF: -1 tvg-logo="https://imgur.com/a/sMsdq21.png" group-title="lIVE EVENT", Oxford utd vs Thai port
-https://media.publit.io/file/Pink-Purple-Neon-Coming-Soon-Mobile-Video-20250712-075102-0001.html
+#EXTINF: -1 tvg-logo="https://i.imgur.com/6agKJQZ.png" group-title="lIVE EVENT", Oxford utd vs Thai port
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=89ffbda79fd7216a4c1d1718e665d8ba:f2af50f1f91dd427c639f6e358912dbf
+https://faiqtv.my.id/percobaanvidio/dash.php/.mpd?id=19035&type=dash
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=21afccfca882b6fd029bfbf101b039c4:4178b215436eb40ec733adc233ff1760
