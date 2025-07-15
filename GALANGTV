@@ -1,8 +1,12 @@
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/87JtW93/galang-ramadhan.png" group-title="PERINGATAN", GALANG RAMADHAN.
 https://media.publit.io/file/Tak-berjudul-2-480p-1.mp4
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5345e049991b04da53015bb277f77d7a:6573d73cf27caf7b1aad6a3a52674e45
 #EXTINF: -1 tvg-logo="https://i.imgur.com/8jbBLwU.png" group-title="lIVE EVENT", INDONESIA U23 VS BRUNEI
-https://media.publit.io/file/comingsoon.mp4
+https://etslive-v3-vidio-com-preview-tokenized.akamaized.net/stream/19062/file/drm/dash/19062_stream.mpd?hdnts=exp=1752578515~acl=/stream/19062/file/*~id=187407154~hmac=e52da7266cff410cd96e02d49bc66d89d0eaca2a20324855198b361491e9ab8e
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=21afccfca882b6fd029bfbf101b039c4:4178b215436eb40ec733adc233ff1760
