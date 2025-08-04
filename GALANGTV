@@ -165,7 +165,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/MetroTVHD/mpd/MetroTVHD.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h234/01.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.ibb.co/yqFcLWN/20231225-143150.png" group-title="LOKAL", CNN INDONESIA
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Gq1fReF.png" group-title="LOKAL", CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/DRVMC6J.jpeg" group-title="LOKAL", CNBC INDONESIA
