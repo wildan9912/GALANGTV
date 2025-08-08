@@ -4,7 +4,7 @@ https://media.publit.io/file/Tak-berjudul-2-480p-1.mp4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=86c7301cf655df73be605f11143920d6:e190795a6ad0ffc07a1f80249ea8365c
-#EXTINF: -1 tvg-logo="logo" group-title="lIVE EVENT", BRI LIGA 1 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/QTYmLhV.jpeg" group-title="lIVE EVENT", BRI LIGA 1 
 https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/19353/file/drm/dash/19353_stream.mpd?hdnts=exp=1754655920~acl=/stream/19353/file/*~id=186820983~hmac=411a64edc3582b03173e38114bdddf7bc992908694faf99fe124014fbc06ea7e
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
