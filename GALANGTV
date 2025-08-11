@@ -6,6 +6,10 @@ https://media.publit.io/file/Tak-berjudul-2-480p-1.mp4
 #EXTINF: -1 tvg-logo="https://i.imgur.com/QTYmLhV.jpeg" group-title="lIVE EVENT", BRI LIGA 1 
 https://live.bbapcall.com/live/sd-1-4379268.m3u8?txSecret=e55837f9682bdad297eea0c7734014c4&txTime=689A04A7
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF: -1 tvg-logo="https://i.ytimg.com/vi/R6De-MnJM1g/hq720.jpg" group-title="lIVE EVENT", GUS IQDHAM
+https://eazyencrypted.my.id/api/youtube/user/tes.php?id=UCRLudgq-8L3QApNo8eyuq5g
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=21afccfca882b6fd029bfbf101b039c4:4178b215436eb40ec733adc233ff1760
