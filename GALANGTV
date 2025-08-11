@@ -1,4 +1,4 @@
-#EXTINF: -1 tvg-logo="https://i.ibb.co.com/87JtW93/galang-ramadhan.png" group-title="PERINGATAN", GALANG RAMADHAN.
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/87JtW93/galang-ramadhan.png" group-title="PERINGATAN", GALANG RAMADHAN
 https://media.publit.io/file/Tak-berjudul-2-480p-1.mp4
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -9,7 +9,7 @@ https://live.bbapcall.com/live/sd-1-4379268.m3u8?txSecret=e55837f9682bdad297eea0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF: -1 tvg-logo="https://i.ytimg.com/vi/R6De-MnJM1g/hq720.jpg" group-title="lIVE EVENT", GUS IQDHAM
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1754941481/ei/yfOZaPz3M9SRssUPtLSquAU/ip/103.55.39.211/id/R6De-MnJM1g.1/itag/94/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D135/rqh/1/hls_chunk_host/rr2---sn-n5oqt5-jb3e.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AY1jyLMbCRZLw7N4fBWQi8Fo-kzIMRNBpi5tmb81Sw3DtS53j-LPFODUi2R4zB80XfX08aNknSzLD9gb/spc/l3OVKUftQ3s1RN4s9pTrc4n-5KTTNoAnKj-0UPK0r3H-vJA1-LUo-XRJUhr1vp-cY88/vprv/1/playlist_type/DVR/met/1754919885,/mh/IQ/mm/44/mn/sn-n5oqt5-jb3e/ms/lva/mv/u/mvi/2/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51548755/mt/1754919292/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIgZ5ZDSWXYR6UkRPfNDoF4Au5hTx8rGrIWErvxiXmq1T4CIQCM8TqufkFqrBGt4E7D0Id1w-F5I1Vwjx7VhI1DREvjUg%3D%3D/lsparams/hls_chunk_host,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgIF2G7S5UvLtAmk9LOO8MxVOTsKcXylXSIZlL3hfeejUCIQDlw7zWF52_WxBK_3ACIsLZ3B5VEdsNIsECfULRSQ-OWw%3D%3D/playlist/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1754942377/ei/SfeZaNfYFuWV4t4PoY6UgQg/ip/180.248.37.42/id/R6De-MnJM1g.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/bui/AY1jyLN7ukJZfiwAChi3fzLrj6voglkaiRHMbE1Ey52C6Huz5hbUWsZYQ3Vx7bgi1zHd2fsPLvcMgc93/spc/l3OVKRxUYnPIqKW6DLH0ANlQPGqDEzU-Wb_x6iD4cxNKtc2Mg6TGctMUirTR7eHifdO5o2nk386tow/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51331020%2C51548755/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgepBdlPsZIWTyQIsjnltEZXb_oYKbUOjDv6hOVuub4rwCIFYzuGymMoQ2VM6njrRUwzDzo3S6Bg-YPGBHK11iQXvF/file/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=21afccfca882b6fd029bfbf101b039c4:4178b215436eb40ec733adc233ff1760
