@@ -1,10 +1,12 @@
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/87JtW93/galang-ramadhan.png" group-title="PERINGATAN", GALANG RAMADHAN.
 https://media.publit.io/file/Tak-berjudul-2-480p-1.mp4
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF: -1 tvg-logo="https://i.imgur.com/QTYmLhV.jpeg" group-title="lIVE EVENT", BRI LIGA 1 
-https://live.bbapcall.com/live/sd-1-4379319.m3u8?txSecret=f111ab1ca8d30f6b763611cf1f17adfc&txTime=689F77D8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19354&type=drm
+https://playlist123.vercel.app/api/vdo/?stream=live&id=19354&type=dash
+
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
