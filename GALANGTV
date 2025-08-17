@@ -192,9 +192,9 @@ https://av-ch-cdn.mncnow.id/live/eds/LifeStyleFashion/sa_dash/LifeStyleFashion.m
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-#KODIPROP:inputstream.adaptive.license_key=https://oprek.mra.my.id/gv/license?id=8237
+#KODIPROP:inputstream.adaptive.license_key=https://oprek.mra.my.id/gv/index.mpd?id=8237&type=drm
 #EXTINF: -1 tvg-logo="https://i.imgur.com/FbofLsh.png" group-title="LOKAL", MENTARI
-https://oprek.mra.my.id/gv/license?id=8237
+https://oprek.mra.my.id/gv/index.mpd?id=8237&type=dash
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co/PzsSPL9/20230818-000302.png" group-title="TV DAERAH", JTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
