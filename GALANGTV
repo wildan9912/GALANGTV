@@ -19,6 +19,11 @@ https://oprek.mra.my.id/gv/index.m3u8?id=18162&type=hls
 #EXTINF: -1 tvg-logo="https://thumbor.prod.vidiocdn.com/gnCr42j1NgqP86rxmmVrsR78xAM=/372x211/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18280/berita-satu-f3779f.jpg" group-title="LOKAL", BERITA SATU
 https://oprek.mra.my.id/gv/index.m3u8?id=18280&type=hls
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#EXTINF: -1 tvg-logo="https://thumbor.prod.vidiocdn.com/Dxsnpct4gUTzDwn5ghjeEfkj_VI=/372x211/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5415/jaktv-72a5da.jpg" group-title="LOKAL", JAKTV
+https://oprek.mra.my.id/gv/index.m3u8?id=5415&type=hls
+
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/v1aJPEa.jpeg" group-title="LOKAL", TRANSTV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w458737197_b744100_sleng.m3u8
