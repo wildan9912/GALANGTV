@@ -193,12 +193,12 @@ https://av-ch-cdn.mncnow.id/live/eds/LifeStyleFashion/sa_dash/LifeStyleFashion.m
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #EXTINF: -1 tvg-logo="https://i.imgur.com/FbofLsh.png" group-title="LOKAL", MENTARI
-https://oprek.mra.my.id/gv/index.m3u8?id=8237
+https://oprek.mra.my.id/gv/index.m3u8?id=8237&type=hls
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #EXTINF: -1 tvg-logo="https://thumbor.prod.vidiocdn.com/UorhKnAcswdhsg4imZzmYF7Ha-I=/372x211/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg" group-title="LOKAL", GARUDA TV
-https://oprek.mra.my.id/gv/index.m3u8?id=18162
+https://oprek.mra.my.id/gv/index.m3u8?id=18162&type=hls
 
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co/PzsSPL9/20230818-000302.png" group-title="TV DAERAH", JTV
