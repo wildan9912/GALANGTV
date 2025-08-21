@@ -29,6 +29,11 @@ https://oprek.mra.my.id/gv/index.m3u8?id=5415&type=hls
 #EXTINF: -1 tvg-logo="https://thumbor.prod.vidiocdn.com/6RE9nHZ8juGesG0bzbMERidYh1w=/372x211/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6533/zoomoo-0c857b.jpg" group-title="LOKAL", ZOOMO
 https://oprek.mra.my.id/gv/index.m3u8?id=6533&type=hls
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#EXTINF: -1 tvg-logo="n.com/y29u__e86-mEWXx-9-vKSwFg1eM=/372x211/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6397/horee-0ed074.jpg" group-title="LOKAL", HOREE
+https://oprek.mra.my.id/gv/index.m3u8?id=6397&type=hls
+
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/v1aJPEa.jpeg" group-title="LOKAL", TRANSTV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w458737197_b744100_sleng.m3u8
