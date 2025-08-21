@@ -31,7 +31,7 @@ https://oprek.mra.my.id/gv/index.m3u8?id=6533&type=hls
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#EXTINF: -1 tvg-logo="n.com/y29u__e86-mEWXx-9-vKSwFg1eM=/372x211/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6397/horee-0ed074.jpg" group-title="LOKAL", HOREE
+#EXTINF: -1 tvg-logo="https://thumbor.prod.vidiocdn.com/y29u__e86-mEWXx-9-vKSwFg1eM=/372x211/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6397/horee-0ed074.jpg group-title="LOKAL", HOREE
 https://oprek.mra.my.id/gv/index.m3u8?id=6397&type=hls
 
 
