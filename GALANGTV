@@ -13,6 +13,9 @@ https://oprek.mra.my.id/gv/index.mpd?id=19354&type=dash
 #EXTINF: -1 tvg-logo="https://i.imgur.com/CCOYgjq.jpeg" group-title="lIVE EVENT", 2. SEMEN PADANG VS PSM
 https://oprek.mra.my.id/gv/index.mpd?id=19385&type=dash
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/TGvogSV.jpeg" group-title="lIVE EVENT", 3. DEWA UNITED VS PERSIK
+https://api.vidio.com/videos/8820136/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6Ijg4MjAxMzYiLCJjcmVhdGVkX2F0IjoxNzU1NzgwNTMxLCJleHRfZHVyYXRpb24iOjYwMH0.814bJ4KI41P1L4aeYbfHcY850EN-sszNSlj6sNobQyw
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #EXTINF: -1 tvg-logo="https://i.imgur.com/FbofLsh.png" group-title="LOKAL", MENTARI
