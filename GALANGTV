@@ -7,10 +7,11 @@ https://media.publit.io/file/Tak-berjudul-2-480p-1.mp4
 #EXTINF: -1 tvg-logo="https://i.imgur.com/QHnaEWs.jpeg" group-title="lIVE EVENT", 1. AREMA FC VS BHAYANGKARA
 https://oprek.mra.my.id/gv/index.mpd?id=19354&type=dash
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://oprek.mra.my.id/gv/license?id=19385
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #EXTINF: -1 tvg-logo="https://i.imgur.com/CCOYgjq.jpeg" group-title="lIVE EVENT", 2. SEMEN PADANG VS PSM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-https://api.vidio.com/videos/8820136/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6Ijg4MjAxMzYiLCJjcmVhdGVkX2F0IjoxNzU1NzgwNTMxLCJleHRfZHVyYXRpb24iOjYwMH0.814bJ4KI41P1L4aeYbfHcY850EN-sszNSlj6sNobQyw
-
+https://oprek.mra.my.id/gv/index.mpd?id=19385&type=dash
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
