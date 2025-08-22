@@ -1,7 +1,7 @@
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/87JtW93/galang-ramadhan.png" group-title="PERINGATAN", GALANG RAMADHAN.
 https://media.publit.io/file/Tak-berjudul-2-480p-1.mp4
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://oprek.mra.my.id/gv/license?id=19354
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #EXTINF: -1 tvg-logo="https://i.imgur.com/QHnaEWs.jpeg" group-title="lIVE EVENT", 1. AREMA FC VS BHAYANGKARA
