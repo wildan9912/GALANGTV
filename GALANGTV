@@ -13,7 +13,7 @@ https://oprek.mra.my.id/gv/index.mpd?id=19354&type=dash
 #EXTINF: -1 tvg-logo="https://i.imgur.com/vqrBs1c.jpeg" group-title="lIVE EVENT", 2. PSBS BIAK VS PERSIS SOLO
 https://oprek.mra.my.id/gv/index.mpd?id=19384&type=dash
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/TGvogSV.jpeg" group-title="lIVE EVENT", 3. DEWA UNITED VS PERSIK
+#EXTINF: -1 tvg-logo="https://i.imgur.com/nV2sARt.jpeg" group-title="lIVE EVENT", 3. PERSEBAYA VS BALI UNITED
 https://api.vidio.com/videos/8820136/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6Ijg4MjAxMzYiLCJjcmVhdGVkX2F0IjoxNzU1NzgwNTMxLCJleHRfZHVyYXRpb24iOjYwMH0.814bJ4KI41P1L4aeYbfHcY850EN-sszNSlj6sNobQyw
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
