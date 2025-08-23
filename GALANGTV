@@ -10,7 +10,7 @@ https://oprek.mra.my.id/gv/index.mpd?id=19354&type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://oprek.mra.my.id/gv/license?id=19385
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#EXTINF: -1 tvg-logo="https://i.imgur.com/CCOYgjq.jpeg" group-title="lIVE EVENT", 2. SEMEN PADANG VS PSM
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vqrBs1c.jpeg" group-title="lIVE EVENT", 2. PSBS BIAK VS PERSIS SOLO
 https://oprek.mra.my.id/gv/index.mpd?id=19385&type=dash
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/TGvogSV.jpeg" group-title="lIVE EVENT", 3. DEWA UNITED VS PERSIK
