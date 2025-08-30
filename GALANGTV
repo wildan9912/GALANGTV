@@ -2,16 +2,10 @@
 https://media.publit.io/file/Tak-berjudul-2-480p-1.mp4
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://oprek.mra.my.id/gv/license?id=19406&type=drm
+#KODIPROP:inputstream.adaptive.license_key=https://oprek.mra.my.id/gv/license?id=19354&type=drm
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#EXTINF: -1 tvg-logo="https://thumbor.prod.vidiocdn.com/EDDC0sUfRR2Y98BzGkROtep-evQ=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/32541/indonesia-vs-malaysia-7e216b.jpg" group-title="lIVE EVENT", 1.INDONESIA VS MALAYSIA
-https://oprek.mra.my.id/gv/index.mpd?id=19406&type=dash
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://oprek.mra.my.id/gv/license?id=19385&type=drm
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#EXTINF: -1 tvg-logo="https://thumbor.prod.vidiocdn.com/vJ9vrWxgNGLeS4a7X_LmtIh7fr4=/372x211/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4512889/80aada.jpg" group-title="lIVE EVENT", 2.MADURA VS PERSITA
-https://oprek.mra.my.id/gv/index.mpd?id=19385&type=dash
+#EXTINF: -1 tvg-logo="https://thumbor.prod.vidiocdn.com/YoQKJNWOivK2tFuM-BT-bQdkdu8=/372x211/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19354/bri-super-league-d4d030.jpg" group-title="lIVE EVENT", 1.INDONESIA VS MALAYSIA
+https://oprek.mra.my.id/gv/index.mpd?id=19354&type=dash
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
