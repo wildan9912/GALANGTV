@@ -1,6 +1,12 @@
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/87JtW93/galang-ramadhan.png" group-title="PERINGATAN", GALANG RAMADHAN.
 https://media.publit.io/file/Tak-berjudul-2-480p-1.mp4
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181
+#EXTINF: -1 tvg-logo="https://i.imgur.com/o96BMeV.jpeg" group-title="lIVE EVENT", AREMA VS PERSIJA
+https://live.5890v.com/live/sd-1-4379300.m3u8?txSecret=095149deadeb7ea891bf3fa23a20ade2&txTime=690F4906
+
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://oprek.mra.my.id/gv/license?id=19354&type=drm
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
