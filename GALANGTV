@@ -1,8 +1,7 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181
-#EXTINF: -1 tvg-logo="https://thumbor.prod.vidiocdn.com/YoQKJNWOivK2tFuM-BT-bQdkdu8=/372x211/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19354/bri-super-league-d4d030.jpg" group-title="lIVE EVENT", BRI LIGA 1
-
-
+#EXTINF: -1 tvg-logo="https://i.imgur.com/FOjmwuw.jpeg" group-title="LOKAL", AREMA DAY
+https://api.vidio.com/videos/8820136/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6Ijg4MjAxMzYiLCJjcmVhdGVkX2F0IjoxNzY3MDU0NzYxLCJleHRfZHVyYXRpb24iOjYwMH0.rWJRQjBrt6O9WBpjP9sequ8VdJVSrIJ8d5DsDKrlpY0
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
