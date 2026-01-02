@@ -1,7 +1,7 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181
 #EXTINF: -1 tvg-logo="https://i.imgur.com/FOjmwuw.jpeg" group-title="LOKAL", 1.AREMA DAY
-https://live.vivo200.com/live/sd-1-4429251.m3u8?txSecret=342d1bcf2a094734fefb58d93872e118&txTime=6953D63D
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
