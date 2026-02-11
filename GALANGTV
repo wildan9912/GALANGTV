@@ -35,9 +35,12 @@ https://oprek.mra.my.id/gv/index.m3u8?id=6533&type=hls
 #EXTINF: -1 tvg-logo="https://thumbor.prod.vidiocdn.com/y29u__e86-mEWXx-9-vKSwFg1eM=/372x211/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6397/horee-0ed074.jpg" group-title="LOKAL", HOREE
 https://oprek.mra.my.id/gv/index.m3u8?id=6397&type=hls
 
-
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=764e726a234a435c87a82e4a1da6a69b:0de18199ebb3316e3aed8529e39542b7
 #EXTINF: -1 tvg-logo="https://i.imgur.com/v1aJPEa.jpeg" group-title="LOKAL", TRANSTV
-https://video.detik.com/transtv/smil:transtv.smil/chunklist_w458737197_b744100_sleng.m3u8
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/csUo6ep.jpeg" group-title="LOKAL", TRANS7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_shareExt_b744100_sleng.m3u8
