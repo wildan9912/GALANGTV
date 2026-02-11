@@ -10,10 +10,9 @@ https://fhlsport301.tb3bu207yap7.xyz/token-IUR8kubGIKeG5GMvw%2FY6yDiKlMPbjXzjPi2
 #EXTINF: -1 tvg-logo="https://i.imgur.com/FbofLsh.png" group-title="LOKAL", MENTARI
 https://oprek.mra.my.id/gv/index.m3u8?id=8237&type=hls
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#EXTINF: -1 tvg-logo="https://thumbor.prod.vidiocdn.com/UorhKnAcswdhsg4imZzmYF7Ha-I=/372x211/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg" group-title="LOKAL", GARUDA TV
-https://oprek.mra.my.id/gv/index.m3u8?id=18162&type=hls
+#EXTVLCOPT:http-referrer=https://garuda.tv/
+#EXTINF:-1 tvg-id="Garuda TV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Logo_GarudaTV_Primer_Flat_2025.svg/2560px-Logo_GarudaTV_Primer_Flat_2025.svg.png" group-title="LOKAL",Garuda TV (ChannelFeed)
+https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
